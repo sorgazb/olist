@@ -100,5 +100,5 @@ else:
 st.write("")
 st.write("")
 
-st.page_link("./ciudad/clienteCiudad.py", label="Clientes por ciudad", icon="⬅️")
+st.page_link("pages/clienteCiudad.py", label="Clientes por ciudad", icon="⬅️")
 

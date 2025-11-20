@@ -60,6 +60,6 @@ st.write("")
 
 col, colm = st.columns(2, vertical_alignment="bottom")
 with col:
-    st.page_link("./estado/mapa.py", label="Mapa", icon="⬅️")
+    st.page_link("pages/mapa.py", label="Mapa", icon="⬅️")
 with colm:
-    st.page_link("./ciudad/graficoCiudad.py", label="Gráficos por ciudad", icon="➡️")
+    st.page_link("pages/graficoCiudad.py", label="Gráficos por ciudad", icon="➡️")

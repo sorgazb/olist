@@ -20,4 +20,4 @@ col, colm = st.columns(2, vertical_alignment="center")
 with col:
     st.page_link("main.py", label="Home", icon="⬅️")
 with colm:
-    st.page_link("./estado/clientesEstado.py", label="Clientes por estado", icon="➡️")
+    st.page_link("pages/clientesEstado.py", label="Clientes por estado", icon="➡️")

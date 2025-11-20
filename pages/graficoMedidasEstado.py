@@ -217,7 +217,7 @@ st.write("")
 
 col, colm = st.columns(2, vertical_alignment="bottom")
 with col:
-    st.page_link("./estado/clientesEstado.py", label="Clientes por estado", icon="⬅️")
+    st.page_link("pages/clientesEstado.py", label="Clientes por estado", icon="⬅️")
 with colm:
-    st.page_link("./estado/resenas.py", label="Análisis de reseñas", icon="➡️")
+    st.page_link("pages/resenas.py", label="Análisis de reseñas", icon="➡️")
 
