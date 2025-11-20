@@ -1,0 +1,2247 @@
+city,state,orders_deliverd,late_orders,mean_late_days,late_percentage
+abadia dos dourados,MG,3,0,0.0,0.0
+abaete,MG,12,1,0.25,8.33
+abatia,PR,3,0,0.0,0.0
+abre campo,MG,5,0,0.0,0.0
+acaiaca,MG,2,0,0.0,0.0
+acegua,RS,2,0,0.0,0.0
+acucena,MG,1,0,0.0,0.0
+adamantina,SP,35,1,0.02857142857142857,2.86
+adhemar de barros,PR,1,1,73.0,100.0
+adolfo,SP,5,0,0.0,0.0
+adrianopolis,PR,1,0,0.0,0.0
+agisse,SP,1,0,0.0,0.0
+agua comprida,MG,2,0,0.0,0.0
+agua santa,RS,2,0,0.0,0.0
+aguai,SP,9,1,0.8888888888888888,11.11
+aguas claras,RS,1,1,3.0,100.0
+aguas da prata,SP,10,0,0.0,0.0
+aguas de lindoia,SP,22,1,1.0,4.55
+aguas de santa barbara,SP,3,0,0.0,0.0
+aguas de sao pedro,SP,2,0,0.0,0.0
+aguas formosas,MG,5,0,0.0,0.0
+aguas vermelhas,MG,3,0,0.0,0.0
+agudo,RS,1,0,0.0,0.0
+agudos,SP,16,1,0.75,6.25
+aimores,MG,10,1,0.2,10.0
+aiuruoca,MG,4,0,0.0,0.0
+ajapi,SP,1,1,5.0,100.0
+ajuricaba,RS,2,0,0.0,0.0
+alagoa,MG,1,0,0.0,0.0
+alambari,SP,3,0,0.0,0.0
+alegrete,RS,35,0,0.0,0.0
+alegria,RS,1,0,0.0,0.0
+alem paraiba,MG,28,0,0.0,0.0
+alexandra,PR,1,0,0.0,0.0
+alexandrita,MG,1,0,0.0,0.0
+alfenas,MG,43,3,0.5813953488372093,6.98
+alfredo marcondes,SP,1,0,0.0,0.0
+alfredo vasconcelos,MG,3,0,0.0,0.0
+almenara,MG,14,0,0.0,0.0
+almirante tamandare,PR,35,0,0.0,0.0
+almirante tamandare do sul,RS,1,0,0.0,0.0
+alpercata,MG,2,0,0.0,0.0
+alpestre,RS,1,0,0.0,0.0
+alpinopolis,MG,7,0,0.0,0.0
+altamira do parana,PR,2,0,0.0,0.0
+alterosa,MG,3,0,0.0,0.0
+altinopolis,SP,4,0,0.0,0.0
+alto alegre,PR,2,0,0.0,0.0
+alto alegre,RS,1,0,0.0,0.0
+alto alegre do iguacu,PR,2,0,0.0,0.0
+alto caparao,MG,2,0,0.0,0.0
+alto jequitiba,MG,3,0,0.0,0.0
+alto paraiso,PR,1,0,0.0,0.0
+alto parana,PR,2,0,0.0,0.0
+alto piquiri,PR,1,0,0.0,0.0
+alto rio doce,MG,4,0,0.0,0.0
+alto sao joao,PR,1,1,34.0,100.0
+altonia,PR,3,0,0.0,0.0
+aluminio,SP,13,2,1.4615384615384615,15.38
+alvarenga,MG,2,0,0.0,0.0
+alvares florence,SP,2,1,0.5,50.0
+alvares machado,SP,8,0,0.0,0.0
+alvaro de carvalho,SP,2,0,0.0,0.0
+alvinopolis,MG,11,0,0.0,0.0
+alvorada,RS,50,4,0.38,8.0
+amapora,PR,2,0,0.0,0.0
+americana,SP,216,18,0.27314814814814814,8.33
+americo brasiliense,SP,17,3,1.2941176470588236,17.65
+americo de campos,SP,1,0,0.0,0.0
+ametista do sul,RS,2,0,0.0,0.0
+amparo,SP,63,3,0.5238095238095238,4.76
+amparo da serra,MG,1,0,0.0,0.0
+ampere,PR,8,1,0.125,12.5
+analandia,SP,4,1,0.5,25.0
+andira,PR,11,0,0.0,0.0
+andradas,MG,12,1,0.4166666666666667,8.33
+andradina,SP,40,0,0.0,0.0
+andre da rocha,RS,1,0,0.0,0.0
+andrelandia,MG,3,1,1.6666666666666667,33.33
+andrequice,MG,1,0,0.0,0.0
+angatuba,SP,8,1,2.5,12.5
+angra dos reis,RJ,83,14,1.5662650602409638,16.87
+angulo,PR,3,0,0.0,0.0
+angustura,MG,1,0,0.0,0.0
+anhembi,SP,1,0,0.0,0.0
+anhumas,SP,1,0,0.0,0.0
+anta,RJ,3,0,0.0,0.0
+anta gorda,RS,4,0,0.0,0.0
+antonina,PR,10,0,0.0,0.0
+antonio carlos,MG,1,0,0.0,0.0
+antonio pereira,MG,2,1,1.5,50.0
+antonio prado,RS,5,0,0.0,0.0
+antonio prado de minas,MG,3,0,0.0,0.0
+antunes,MG,1,0,0.0,0.0
+aparecida,SP,25,2,0.28,8.0
+aparecida d'oeste,SP,1,0,0.0,0.0
+aparecida de monte alto,SP,1,0,0.0,0.0
+aparecida de sao manuel,SP,2,0,0.0,0.0
+aperibe,RJ,12,2,1.8333333333333333,16.67
+apiai,SP,6,1,0.5,16.67
+apucarana,PR,51,3,0.5490196078431373,5.88
+aracariguama,SP,8,0,0.0,0.0
+aracatuba,SP,138,4,0.028985507246376812,2.9
+aracitaba,MG,2,0,0.0,0.0
+aracoiaba da serra,SP,11,0,0.0,0.0
+aracuai,MG,9,1,1.0,11.11
+araguari,MG,54,3,0.37037037037037035,5.56
+aramina,SP,1,1,5.0,100.0
+arandu,SP,3,0,0.0,0.0
+arantina,MG,1,0,0.0,0.0
+arapei,SP,2,0,0.0,0.0
+araponga,MG,2,0,0.0,0.0
+arapongas,PR,32,4,1.8125,12.5
+arapora,MG,5,0,0.0,0.0
+arapoti,PR,9,0,0.0,0.0
+arapua,MG,1,0,0.0,0.0
+araraquara,SP,150,11,0.8466666666666667,7.33
+araras,SP,93,7,0.20430107526881722,7.53
+ararica,RS,2,0,0.0,0.0
+araruama,RJ,74,8,1.0945945945945945,10.81
+araruna,PR,4,0,0.0,0.0
+aratiba,RS,1,0,0.0,0.0
+araucaria,PR,54,4,0.5925925925925926,7.41
+araujos,MG,5,0,0.0,0.0
+araxa,MG,75,9,0.56,12.0
+arceburgo,MG,7,0,0.0,0.0
+arcos,MG,25,1,0.88,4.0
+areado,MG,6,0,0.0,0.0
+areal,RJ,7,0,0.0,0.0
+arealva,SP,3,0,0.0,0.0
+areia branca dos assis,PR,3,2,10.0,66.67
+areias,SP,3,0,0.0,0.0
+areiopolis,SP,3,0,0.0,0.0
+arinos,MG,8,0,0.0,0.0
+ariranha,SP,5,0,0.0,0.0
+armacao dos buzios,RJ,28,13,4.642857142857143,46.43
+arraial do cabo,RJ,28,6,2.857142857142857,21.43
+arroio do meio,RS,9,0,0.0,0.0
+arroio do sal,RS,7,0,0.0,0.0
+arroio do tigre,RS,2,0,0.0,0.0
+arroio dos ratos,RS,9,0,0.0,0.0
+arroio grande,RS,3,1,1.0,33.33
+arrozal,RJ,3,0,0.0,0.0
+artur nogueira,SP,40,0,0.0,0.0
+aruja,SP,68,1,0.014705882352941176,1.47
+arvorezinha,RS,4,0,0.0,0.0
+assai,PR,5,1,1.8,20.0
+assis,SP,84,1,0.23809523809523808,1.19
+assis chateaubriand,PR,12,1,0.25,8.33
+astolfo dutra,MG,11,1,0.36363636363636365,9.09
+astorga,PR,7,0,0.0,0.0
+ataleia,MG,2,0,0.0,0.0
+atibaia,SP,154,10,0.4155844155844156,6.49
+augusto pestana,RS,2,0,0.0,0.0
+aurea,RS,2,0,0.0,0.0
+auriflama,SP,10,0,0.0,0.0
+avanhandava,SP,7,0,0.0,0.0
+avare,SP,63,4,1.2857142857142858,6.35
+avelar,RJ,4,1,2.25,25.0
+azurita,MG,3,2,7.333333333333333,66.67
+bacaxa,RJ,1,0,0.0,0.0
+bady bassitt,SP,6,0,0.0,0.0
+baependi,MG,8,0,0.0,0.0
+bage,RS,62,8,0.7419354838709677,12.9
+balbinos,SP,1,0,0.0,0.0
+baldim,MG,2,0,0.0,0.0
+balneario pinhal,RS,7,0,0.0,0.0
+balsa nova,PR,1,0,0.0,0.0
+balsamo,SP,6,0,0.0,0.0
+bambui,MG,18,1,0.2222222222222222,5.56
+bananal,SP,5,0,0.0,0.0
+bandeira,MG,3,0,0.0,0.0
+bandeira do sul,MG,2,0,0.0,0.0
+bandeirantes,PR,13,0,0.0,0.0
+bandeirantes d'oeste,SP,1,0,0.0,0.0
+barao,RS,1,0,0.0,0.0
+barao ataliba nogueira,SP,1,0,0.0,0.0
+barao de cocais,MG,18,0,0.0,0.0
+barao de cotegipe,RS,2,0,0.0,0.0
+barao de juparana,RJ,1,0,0.0,0.0
+barao do triunfo,RS,1,0,0.0,0.0
+barbacena,MG,79,4,0.20253164556962025,5.06
+barbosa ferraz,PR,3,0,0.0,0.0
+bariri,SP,15,0,0.0,0.0
+barra bonita,SP,28,1,0.17857142857142858,3.57
+barra de sao joao,RJ,13,1,1.6923076923076923,7.69
+barra do jacare,PR,1,0,0.0,0.0
+barra do pirai,RJ,49,4,1.7551020408163265,8.16
+barra do ribeiro,RS,5,0,0.0,0.0
+barra do rio azul,RS,1,0,0.0,0.0
+barra do turvo,SP,3,1,7.0,33.33
+barra longa,MG,1,0,0.0,0.0
+barra mansa,RJ,119,22,1.5126050420168067,18.49
+barracao,PR,1,0,0.0,0.0
+barracao,RS,2,0,0.0,0.0
+barretos,SP,69,3,0.10144927536231885,4.35
+barrinha,SP,18,3,5.555555555555555,16.67
+barros cassal,RS,3,0,0.0,0.0
+barroso,MG,11,1,0.5454545454545454,9.09
+barueri,SP,419,21,0.4510739856801909,5.01
+bastos,SP,17,0,0.0,0.0
+batatais,SP,27,1,0.25925925925925924,3.7
+bauru,SP,263,9,0.155893536121673,3.42
+bebedouro,SP,51,3,0.6470588235294118,5.88
+bela vista de minas,MG,1,0,0.0,0.0
+bela vista do paraiso,PR,3,0,0.0,0.0
+belford roxo,RJ,104,9,1.3942307692307692,8.65
+belo horizonte,MG,2697,166,0.42862439747868003,6.15
+belo oriente,MG,5,0,0.0,0.0
+belo vale,MG,3,0,0.0,0.0
+bemposta,RJ,1,0,0.0,0.0
+bento de abreu,SP,2,0,0.0,0.0
+bento goncalves,RS,53,1,0.1320754716981132,1.89
+berilo,MG,1,0,0.0,0.0
+berizal,MG,1,0,0.0,0.0
+bernardino de campos,SP,4,1,0.25,25.0
+bertioga,SP,47,5,0.7872340425531915,10.64
+bertopolis,MG,1,1,11.0,100.0
+betim,MG,196,11,0.45918367346938777,5.61
+bias fortes,MG,2,0,0.0,0.0
+bicas,MG,7,0,0.0,0.0
+bilac,SP,7,0,0.0,0.0
+birigui,SP,78,4,0.1282051282051282,5.13
+biritiba-mirim,SP,10,0,0.0,0.0
+bituruna,PR,5,0,0.0,0.0
+boa esperanca,MG,11,0,0.0,0.0
+boa esperanca,PR,1,0,0.0,0.0
+boa esperanca,RJ,1,1,6.0,100.0
+boa esperanca do iguacu,PR,1,0,0.0,0.0
+boa esperanca do sul,SP,11,1,0.6363636363636364,9.09
+boa ventura,RJ,1,0,0.0,0.0
+boa vista da aparecida,PR,4,0,0.0,0.0
+boa vista das missoes,RS,1,0,0.0,0.0
+boa vista do burica,RS,1,0,0.0,0.0
+boa vista do cadeado,RS,1,0,0.0,0.0
+boa vista do sul,RS,1,0,0.0,0.0
+bocaina,SP,6,0,0.0,0.0
+bocaiuva,MG,13,0,0.0,0.0
+bocaiuva do sul,PR,2,0,0.0,0.0
+bofete,SP,5,1,1.2,20.0
+boituva,SP,47,1,0.14893617021276595,2.13
+bom despacho,MG,38,0,0.0,0.0
+bom jardim,RJ,14,2,3.642857142857143,14.29
+bom jardim de minas,MG,8,0,0.0,0.0
+bom jesus da penha,MG,2,0,0.0,0.0
+bom jesus do amparo,MG,1,0,0.0,0.0
+bom jesus do galho,MG,4,0,0.0,0.0
+bom jesus do itabapoana,RJ,20,3,3.2,15.0
+bom jesus do querendo,RJ,1,0,0.0,0.0
+bom jesus do sul,PR,1,0,0.0,0.0
+bom jesus dos perdoes,SP,17,1,0.47058823529411764,5.88
+bom principio,RS,6,1,3.0,16.67
+bom repouso,MG,4,1,2.0,25.0
+bom retiro do sul,RS,2,0,0.0,0.0
+bom sucesso,MG,4,0,0.0,0.0
+bom sucesso,PR,1,0,0.0,0.0
+bonfim,MG,4,0,0.0,0.0
+bonfim paulista,SP,18,1,1.6111111111111112,5.56
+bonfinopolis de minas,MG,2,0,0.0,0.0
+bonito de minas,MG,1,0,0.0,0.0
+boqueirao do leao,RS,2,0,0.0,0.0
+bora,SP,1,0,0.0,0.0
+boraceia,SP,1,0,0.0,0.0
+borborema,SP,8,0,0.0,0.0
+borda da mata,MG,6,0,0.0,0.0
+borrazopolis,PR,2,0,0.0,0.0
+bossoroca,RS,1,0,0.0,0.0
+botelho,SP,1,0,0.0,0.0
+botelhos,MG,8,0,0.0,0.0
+botucatu,SP,100,4,0.15,4.0
+braganca paulista,SP,144,3,0.1597222222222222,2.08
+bras pires,MG,2,0,0.0,0.0
+brasilandia de minas,MG,1,1,2.0,100.0
+brasilia de minas,MG,9,0,0.0,0.0
+brasopolis,MG,1,0,0.0,0.0
+brauna,SP,5,1,0.6,20.0
+braunas,MG,1,0,0.0,0.0
+brazopolis,MG,6,0,0.0,0.0
+brejo bonito,MG,1,0,0.0,0.0
+brodowski,SP,9,0,0.0,0.0
+brotas,SP,12,0,0.0,0.0
+brumadinho,MG,26,1,0.4230769230769231,3.85
+bueno brandao,MG,4,1,0.25,25.0
+buenopolis,MG,4,0,0.0,0.0
+bugre,MG,1,0,0.0,0.0
+buri,SP,10,1,0.8,10.0
+buritama,SP,9,2,3.2222222222222223,22.22
+buritis,MG,13,0,0.0,0.0
+buritizal,SP,2,0,0.0,0.0
+buritizeiro,MG,8,0,0.0,0.0
+butia,RS,6,0,0.0,0.0
+cabeceira grande,MG,3,1,0.3333333333333333,33.33
+cabo frio,RJ,113,27,2.5575221238938055,23.89
+cabo verde,MG,3,0,0.0,0.0
+cabralia paulista,SP,4,0,0.0,0.0
+cabreuva,SP,6,1,2.8333333333333335,16.67
+cacapava,SP,72,2,0.08333333333333333,2.78
+cacapava do sul,RS,5,0,0.0,0.0
+cacequi,RS,3,0,0.0,0.0
+cachoeira da prata,MG,2,0,0.0,0.0
+cachoeira de minas,MG,6,0,0.0,0.0
+cachoeira de pajeu,MG,3,0,0.0,0.0
+cachoeira do brumado,MG,1,1,4.0,100.0
+cachoeira do campo,MG,2,0,0.0,0.0
+cachoeira do sul,RS,30,1,0.6333333333333333,3.33
+cachoeira dourada,MG,1,0,0.0,0.0
+cachoeira paulista,SP,25,0,0.0,0.0
+cachoeiras de macacu,RJ,20,2,1.35,10.0
+cachoeirinha,RS,72,3,0.125,4.17
+caconde,SP,10,0,0.0,0.0
+caetanopolis,MG,8,0,0.0,0.0
+caete,MG,27,2,1.0740740740740742,7.41
+cafeara,PR,2,0,0.0,0.0
+cafelandia,PR,11,0,0.0,0.0
+cafelandia,SP,8,0,0.0,0.0
+caiana,MG,3,0,0.0,0.0
+caibate,RS,1,0,0.0,0.0
+caieiras,SP,97,4,0.3402061855670103,4.12
+caiua,SP,2,0,0.0,0.0
+cajamar,SP,97,5,0.18556701030927836,5.15
+cajati,SP,16,0,0.0,0.0
+cajobi,SP,8,0,0.0,0.0
+cajuri,MG,1,0,0.0,0.0
+cajuru,SP,9,1,1.5555555555555556,11.11
+caldas,MG,5,0,0.0,0.0
+california,PR,2,0,0.0,0.0
+california da barra,RJ,6,1,0.16666666666666666,16.67
+camacho,MG,1,0,0.0,0.0
+camanducaia,MG,9,0,0.0,0.0
+camaqua,RS,12,0,0.0,0.0
+cambara,PR,9,0,0.0,0.0
+cambara do sul,RS,1,0,0.0,0.0
+cambe,PR,27,2,0.14814814814814814,7.41
+cambiasca,RJ,1,0,0.0,0.0
+cambira,PR,2,0,0.0,0.0
+cambuci,RJ,8,2,7.0,25.0
+cambui,MG,22,4,1.8181818181818181,18.18
+cambuquira,MG,5,0,0.0,0.0
+campanario,MG,2,0,0.0,0.0
+campanha,MG,7,2,1.2857142857142858,28.57
+campestre,MG,3,0,0.0,0.0
+campestre da serra,RS,2,0,0.0,0.0
+campina da lagoa,PR,2,1,30.5,50.0
+campina das missoes,RS,2,0,0.0,0.0
+campina do monte alegre,SP,2,0,0.0,0.0
+campina grande do sul,PR,9,0,0.0,0.0
+campina verde,MG,10,0,0.0,0.0
+campinas,SP,1406,143,0.7069701280227596,10.17
+campinas do sul,RS,6,0,0.0,0.0
+campo alegre de minas,MG,1,0,0.0,0.0
+campo azul,MG,1,0,0.0,0.0
+campo belo,MG,21,0,0.0,0.0
+campo bom,RS,35,1,0.22857142857142856,2.86
+campo do meio,MG,4,0,0.0,0.0
+campo do tenente,PR,1,1,9.0,100.0
+campo florido,MG,1,0,0.0,0.0
+campo largo,PR,36,0,0.0,0.0
+campo limpo paulista,SP,47,5,0.5106382978723404,10.64
+campo magro,PR,1,0,0.0,0.0
+campo mourao,PR,56,4,0.125,7.14
+campo novo,RS,2,0,0.0,0.0
+campos altos,MG,5,0,0.0,0.0
+campos borges,RS,3,0,0.0,0.0
+campos do jordao,SP,25,2,0.44,8.0
+campos dos goytacazes,RJ,232,34,1.6163793103448276,14.66
+campos gerais,MG,4,1,1.0,25.0
+canaa,MG,1,0,0.0,0.0
+cananeia,SP,8,1,3.5,12.5
+canapolis,MG,5,0,0.0,0.0
+candeias,MG,9,0,0.0,0.0
+candelaria,RS,4,0,0.0,0.0
+candido de abreu,PR,4,0,0.0,0.0
+candido godoi,RS,1,0,0.0,0.0
+candido mota,SP,16,1,0.0625,6.25
+candido rodrigues,SP,4,0,0.0,0.0
+candiota,RS,4,0,0.0,0.0
+candoi,PR,1,0,0.0,0.0
+canela,RS,17,0,0.0,0.0
+cangucu,RS,12,0,0.0,0.0
+canitar,SP,2,0,0.0,0.0
+canoas,RS,205,21,0.7804878048780488,10.24
+cantagalo,MG,2,0,0.0,0.0
+cantagalo,PR,2,0,0.0,0.0
+cantagalo,RJ,17,2,0.8823529411764706,11.76
+capanema,PR,9,0,0.0,0.0
+capao bonito,SP,28,1,0.17857142857142858,3.57
+capao da canoa,RS,38,0,0.0,0.0
+capao da porteira,RS,2,0,0.0,0.0
+capao do cipo,RS,3,0,0.0,0.0
+capao do leao,RS,4,2,3.75,50.0
+caparao,MG,1,0,0.0,0.0
+capela de santana,RS,2,0,0.0,0.0
+capela do alto,SP,3,1,5.0,33.33
+capela nova,MG,1,0,0.0,0.0
+capelinha,MG,19,1,0.0,5.26
+capetinga,MG,2,0,0.0,0.0
+capim branco,MG,2,0,0.0,0.0
+capinopolis,MG,11,0,0.0,0.0
+capitao,RS,1,0,0.0,0.0
+capitao andrade,MG,1,0,0.0,0.0
+capitao eneas,MG,1,0,0.0,0.0
+capitao leonidas marques,PR,5,1,0.2,20.0
+capitolio,MG,5,0,0.0,0.0
+capivari,SP,32,0,0.0,0.0
+capivari do sul,RS,1,0,0.0,0.0
+caputira,MG,2,0,0.0,0.0
+caraguatatuba,SP,83,7,0.8554216867469879,8.43
+carai,MG,6,1,0.16666666666666666,16.67
+carambei,PR,3,0,0.0,0.0
+carandai,MG,11,0,0.0,0.0
+carangola,MG,25,1,0.28,4.0
+carapebus,RJ,5,1,2.0,20.0
+carapicuiba,SP,316,20,0.370253164556962,6.33
+caratinga,MG,62,3,0.3548387096774194,4.84
+carazinho,RS,23,0,0.0,0.0
+carbonita,MG,4,0,0.0,0.0
+cardoso,SP,6,0,0.0,0.0
+cardoso moreira,RJ,6,1,0.3333333333333333,16.67
+careacu,MG,2,0,0.0,0.0
+carlopolis,PR,6,0,0.0,0.0
+carlos barbosa,RS,19,0,0.0,0.0
+carlos chagas,MG,2,0,0.0,0.0
+carmesia,MG,1,0,0.0,0.0
+carmo,RJ,12,3,4.166666666666667,25.0
+carmo da cachoeira,MG,4,0,0.0,0.0
+carmo da mata,MG,6,0,0.0,0.0
+carmo de minas,MG,3,0,0.0,0.0
+carmo do cajuru,MG,10,0,0.0,0.0
+carmo do paranaiba,MG,16,0,0.0,0.0
+carmo do rio claro,MG,9,0,0.0,0.0
+carmopolis de minas,MG,5,0,0.0,0.0
+carneirinho,MG,3,0,0.0,0.0
+carrancas,MG,3,0,0.0,0.0
+carvalhopolis,MG,3,1,4.666666666666667,33.33
+casa branca,SP,13,1,0.07692307692307693,7.69
+casca,RS,7,0,0.0,0.0
+cascalho rico,MG,1,0,0.0,0.0
+cascavel,PR,146,11,0.4520547945205479,7.53
+caseiros,RS,1,0,0.0,0.0
+casimiro de abreu,RJ,20,2,1.8,10.0
+cassia,MG,6,0,0.0,0.0
+cassia dos coqueiros,SP,1,0,0.0,0.0
+castilho,SP,10,0,0.0,0.0
+castro,PR,22,1,0.13636363636363635,4.55
+cataguases,MG,32,0,0.0,0.0
+catanduva,SP,72,2,0.3611111111111111,2.78
+catas altas,MG,5,0,0.0,0.0
+catigua,SP,6,0,0.0,0.0
+catuipe,RS,4,1,1.0,25.0
+caxambu,MG,16,1,0.6875,6.25
+caxias do sul,RS,220,18,0.5454545454545454,8.18
+cedral,SP,6,1,1.1666666666666667,16.67
+cedro do abaete,MG,1,0,0.0,0.0
+centenario do sul,PR,4,0,0.0,0.0
+central de santa helena,MG,1,0,0.0,0.0
+centralina,MG,1,0,0.0,0.0
+cerqueira cesar,SP,18,3,1.0555555555555556,16.67
+cerquilho,SP,29,2,0.06896551724137931,6.9
+cerrito,RS,1,0,0.0,0.0
+cerro azul,PR,4,0,0.0,0.0
+cerro grande,RS,1,0,0.0,0.0
+cerro grande do sul,RS,2,0,0.0,0.0
+cerro largo,RS,7,1,0.2857142857142857,14.29
+cesario lange,SP,13,0,0.0,0.0
+ceu azul,PR,7,1,2.4285714285714284,14.29
+chacara,MG,2,0,0.0,0.0
+chale,MG,2,0,0.0,0.0
+chapada,RS,4,1,3.5,25.0
+chapada do norte,MG,2,1,15.0,50.0
+chapada gaucha,MG,4,1,2.0,25.0
+charqueada,SP,10,2,3.2,20.0
+charqueadas,RS,17,0,0.0,0.0
+charrua,RS,1,0,0.0,0.0
+chavantes,SP,12,0,0.0,0.0
+chaveslandia,MG,2,1,9.5,50.0
+chiapetta,RS,1,0,0.0,0.0
+chopinzinho,PR,4,0,0.0,0.0
+chui,RS,5,0,0.0,0.0
+cianorte,PR,39,1,0.07692307692307693,2.56
+cidade gaucha,PR,5,1,0.2,20.0
+cidreira,RS,5,0,0.0,0.0
+cipo-guacu,SP,1,0,0.0,0.0
+ciriaco,RS,1,0,0.0,0.0
+claraval,MG,1,0,0.0,0.0
+claro dos pocoes,MG,1,0,0.0,0.0
+claudio,MG,20,1,0.85,5.0
+clementina,SP,4,0,0.0,0.0
+clevelandia,PR,3,0,0.0,0.0
+cocais,MG,1,0,0.0,0.0
+coimbra,MG,1,0,0.0,0.0
+colina,SP,9,0,0.0,0.0
+colinas,RS,1,0,0.0,0.0
+colombia,SP,5,0,0.0,0.0
+colombo,PR,60,3,0.4666666666666667,5.0
+colonia castrolanda,PR,3,0,0.0,0.0
+colonia jordaozinho,PR,2,0,0.0,0.0
+colonia vitoria,PR,5,1,0.6,20.0
+colorado,PR,6,0,0.0,0.0
+colorado,RS,3,0,0.0,0.0
+coluna,MG,3,0,0.0,0.0
+comendador levy gasparian,RJ,7,0,0.0,0.0
+comercinho,MG,1,0,0.0,0.0
+conceicao da aparecida,MG,5,0,0.0,0.0
+conceicao da ibitipoca,MG,1,1,18.0,100.0
+conceicao das alagoas,MG,3,0,0.0,0.0
+conceicao das pedras,MG,4,0,0.0,0.0
+conceicao de macabu,RJ,12,1,4.333333333333333,8.33
+conceicao do formoso,MG,1,0,0.0,0.0
+conceicao do mato dentro,MG,12,0,0.0,0.0
+conceicao do para,MG,3,0,0.0,0.0
+conceicao do rio verde,MG,5,0,0.0,0.0
+conceicao dos ouros,MG,4,0,0.0,0.0
+conchal,SP,19,1,0.47368421052631576,5.26
+conchas,SP,8,1,0.375,12.5
+condor,RS,4,0,0.0,0.0
+confins,MG,1,0,0.0,0.0
+congonhal,MG,4,0,0.0,0.0
+congonhas,MG,30,2,0.1,6.67
+congonhinhas,PR,2,0,0.0,0.0
+conquista,MG,6,0,0.0,0.0
+conrado,RJ,1,0,0.0,0.0
+conselheiro lafaiete,MG,82,8,0.9634146341463414,9.76
+conselheiro mairinck,PR,1,0,0.0,0.0
+conselheiro pena,MG,15,0,0.0,0.0
+conservatoria,RJ,4,1,5.25,25.0
+constantina,RS,1,0,0.0,0.0
+contagem,MG,415,26,0.42650602409638555,6.27
+contenda,PR,1,0,0.0,0.0
+coqueiro baixo,RS,2,0,0.0,0.0
+coqueiros do sul,RS,1,0,0.0,0.0
+coracao de jesus,MG,3,0,0.0,0.0
+corbelia,PR,3,0,0.0,0.0
+cordeiro,RJ,24,1,0.20833333333333334,4.17
+cordeiropolis,SP,15,0,0.0,0.0
+corinto,MG,11,0,0.0,0.0
+cornelio procopio,PR,24,0,0.0,0.0
+coroaci,MG,2,0,0.0,0.0
+coroados,SP,2,0,0.0,0.0
+coromandel,MG,25,3,1.72,12.0
+coronel domingos soares,PR,1,0,0.0,0.0
+coronel fabriciano,MG,40,0,0.0,0.0
+coronel macedo,SP,2,0,0.0,0.0
+coronel murta,MG,1,0,0.0,0.0
+coronel pacheco,MG,1,0,0.0,0.0
+coronel vivida,PR,11,1,0.09090909090909091,9.09
+corrego danta,MG,1,0,0.0,0.0
+corrego do ouro,RJ,1,0,0.0,0.0
+corrego fundo,MG,1,1,2.0,100.0
+corumbatai,SP,2,0,0.0,0.0
+corumbatai do sul,PR,1,0,0.0,0.0
+cosmopolis,SP,50,1,0.08,2.0
+cosmorama,SP,6,0,0.0,0.0
+cotia,SP,242,7,0.06198347107438017,2.89
+cotipora,RS,1,0,0.0,0.0
+coxilha,RS,2,1,6.0,50.0
+cravinhos,SP,24,1,0.20833333333333334,4.17
+crisolita,MG,2,0,0.0,0.0
+crissiumal,RS,2,0,0.0,0.0
+cristais,MG,3,0,0.0,0.0
+cristais paulista,SP,4,0,0.0,0.0
+cristal,RS,3,0,0.0,0.0
+cristalia,MG,3,0,0.0,0.0
+cristiano otoni,MG,2,0,0.0,0.0
+cristina,MG,7,2,2.5714285714285716,28.57
+crucilandia,MG,1,0,0.0,0.0
+cruz alta,RS,30,0,0.0,0.0
+cruz machado,PR,3,0,0.0,0.0
+cruzalia,SP,3,0,0.0,0.0
+cruzeiro,SP,56,3,0.35714285714285715,5.36
+cruzeiro da fortaleza,MG,2,0,0.0,0.0
+cruzeiro do iguacu,PR,1,0,0.0,0.0
+cruzeiro do oeste,PR,7,0,0.0,0.0
+cruzeiro do sul,RS,3,0,0.0,0.0
+cruzilia,MG,4,0,0.0,0.0
+cubatao,SP,79,8,0.5443037974683544,10.13
+cuite velho,MG,1,0,0.0,0.0
+cunha,SP,14,0,0.0,0.0
+curitiba,PR,1489,74,0.3834788448623237,4.97
+curiuva,PR,4,0,0.0,0.0
+curvelo,MG,42,3,1.2142857142857142,7.14
+datas,MG,1,0,0.0,0.0
+david canabarro,RS,2,0,0.0,0.0
+delfim moreira,MG,1,0,0.0,0.0
+delfinopolis,MG,3,0,0.0,0.0
+descalvado,SP,13,0,0.0,0.0
+descoberto,MG,3,0,0.0,0.0
+desembargador otoni,MG,1,1,6.0,100.0
+desterro de entre rios,MG,1,0,0.0,0.0
+desterro do melo,MG,1,0,0.0,0.0
+dezesseis de novembro,RS,1,0,0.0,0.0
+diadema,SP,276,23,0.7137681159420289,8.33
+diamante d'oeste,PR,1,0,0.0,0.0
+diamante do norte,PR,5,0,0.0,0.0
+diamantina,MG,27,0,0.0,0.0
+diogo de vasconcelos,MG,2,1,1.0,50.0
+dionisio,MG,2,0,0.0,0.0
+divinesia,MG,1,0,0.0,0.0
+divino,MG,13,0,0.0,0.0
+divino das laranjeiras,MG,1,0,0.0,0.0
+divinolandia,SP,7,1,0.14285714285714285,14.29
+divinolandia de minas,MG,5,0,0.0,0.0
+divinopolis,MG,132,2,0.045454545454545456,1.52
+divisa alegre,MG,2,0,0.0,0.0
+divisa nova,MG,1,0,0.0,0.0
+dobrada,SP,2,0,0.0,0.0
+doce grande,PR,1,1,6.0,100.0
+dois corregos,SP,11,0,0.0,0.0
+dois irmaos,RS,17,2,0.7058823529411765,11.76
+dois vizinhos,PR,27,2,0.2222222222222222,7.41
+dom cavati,MG,1,0,0.0,0.0
+dom feliciano,RS,5,0,0.0,0.0
+dom joaquim,MG,1,0,0.0,0.0
+dom pedrito,RS,10,1,0.2,10.0
+dom silverio,MG,4,0,0.0,0.0
+dom vicoso,MG,2,0,0.0,0.0
+dona euzebia,MG,2,0,0.0,0.0
+dona francisca,RS,2,0,0.0,0.0
+dores de campos,MG,8,0,0.0,0.0
+dores do indaia,MG,7,0,0.0,0.0
+douradina,PR,1,0,0.0,0.0
+dourado,SP,8,1,0.5,12.5
+doutor camargo,PR,1,0,0.0,0.0
+doutor ulysses,PR,1,0,0.0,0.0
+dracena,SP,27,3,0.6666666666666666,11.11
+duartina,SP,10,0,0.0,0.0
+duas barras,RJ,1,1,22.0,100.0
+dumont,SP,3,1,0.3333333333333333,33.33
+duque de caxias,RJ,250,32,1.26,12.8
+durande,MG,2,0,0.0,0.0
+echapora,SP,2,0,0.0,0.0
+eldorado,SP,5,0,0.0,0.0
+eldorado do sul,RS,15,0,0.0,0.0
+elias fausto,SP,5,1,4.2,20.0
+elisiario,SP,1,0,0.0,0.0
+eloi mendes,MG,10,1,0.8,10.0
+embauba,SP,1,0,0.0,0.0
+embu,SP,11,0,0.0,0.0
+embu das artes,SP,157,12,0.910828025477707,7.64
+embu-guacu,SP,46,0,0.0,0.0
+emilianopolis,SP,2,0,0.0,0.0
+encantado,RS,11,0,0.0,0.0
+encruzilhada do sul,RS,8,0,0.0,0.0
+eneas marques,PR,4,0,0.0,0.0
+engenheiro balduino,SP,1,0,0.0,0.0
+engenheiro coelho,SP,12,1,0.5,8.33
+engenheiro navarro,MG,1,0,0.0,0.0
+engenheiro passos,RJ,2,0,0.0,0.0
+engenheiro paulo de frontin,RJ,6,2,5.166666666666667,33.33
+entre folhas,MG,1,0,0.0,0.0
+entre rios de minas,MG,7,0,0.0,0.0
+entre rios do oeste,PR,3,0,0.0,0.0
+entre-ijuis,RS,3,0,0.0,0.0
+erebango,RS,1,0,0.0,0.0
+erechim,RS,56,3,0.39285714285714285,5.36
+erval grande,RS,2,0,0.0,0.0
+ervalia,MG,7,0,0.0,0.0
+esmeralda,RS,1,0,0.0,0.0
+esmeraldas,MG,14,0,0.0,0.0
+espera feliz,MG,19,0,0.0,0.0
+espigao,SP,2,0,0.0,0.0
+espigao alto do iguacu,PR,2,0,0.0,0.0
+espinosa,MG,6,0,0.0,0.0
+espirito santo do pinhal,SP,18,0,0.0,0.0
+espirito santo do turvo,SP,2,0,0.0,0.0
+espumoso,RS,7,2,1.4285714285714286,28.57
+estacao,RS,5,0,0.0,0.0
+estancia velha,RS,20,0,0.0,0.0
+esteio,RS,39,6,1.641025641025641,15.38
+estevao de araujo,MG,1,0,0.0,0.0
+estiva,MG,1,0,0.0,0.0
+estiva gerbi,SP,7,0,0.0,0.0
+estrela,RS,15,0,0.0,0.0
+estrela d oeste,SP,1,0,0.0,0.0
+estrela d'oeste,SP,1,0,0.0,0.0
+estrela do indaia,MG,2,0,0.0,0.0
+estrela do norte,SP,3,0,0.0,0.0
+estrela do sul,MG,1,0,0.0,0.0
+estrela velha,RS,1,0,0.0,0.0
+euclides da cunha paulista,SP,2,0,0.0,0.0
+eugenio de castro,RS,1,0,0.0,0.0
+eugenopolis,MG,5,0,0.0,0.0
+ewbank da camara,MG,1,0,0.0,0.0
+extrema,MG,39,1,0.05128205128205128,2.56
+farol,PR,1,0,0.0,0.0
+farroupilha,RS,27,0,0.0,0.0
+fartura,SP,10,2,1.1,20.0
+faxinal,PR,9,1,0.2222222222222222,11.11
+faxinalzinho,RS,1,0,0.0,0.0
+fazenda rio grande,PR,29,0,0.0,0.0
+fazenda vilanova,RS,2,0,0.0,0.0
+felicio dos santos,MG,1,1,28.0,100.0
+felisburgo,MG,1,0,0.0,0.0
+felixlandia,MG,1,0,0.0,0.0
+feliz,RS,14,1,0.14285714285714285,7.14
+fenix,PR,1,0,0.0,0.0
+fernando prestes,SP,6,0,0.0,0.0
+fernandopolis,SP,52,1,0.15384615384615385,1.92
+fernao,SP,1,0,0.0,0.0
+ferraz de vasconcelos,SP,109,8,0.27522935779816515,7.34
+ferros,MG,2,0,0.0,0.0
+fervedouro,MG,8,0,0.0,0.0
+figueira,PR,4,0,0.0,0.0
+flor da serra do sul,PR,2,0,0.0,0.0
+flora rica,SP,1,0,0.0,0.0
+florai,PR,2,0,0.0,0.0
+floreal,SP,2,0,0.0,0.0
+flores da cunha,RS,12,0,0.0,0.0
+floresta,PR,5,0,0.0,0.0
+florestal,MG,3,0,0.0,0.0
+florestopolis,PR,3,0,0.0,0.0
+florida,PR,1,0,0.0,0.0
+florida paulista,SP,4,0,0.0,0.0
+florinia,SP,1,0,0.0,0.0
+fonseca,MG,1,0,0.0,0.0
+fontoura xavier,RS,1,0,0.0,0.0
+formiga,MG,32,1,0.09375,3.12
+formigueiro,RS,2,0,0.0,0.0
+formosa do oeste,PR,1,0,0.0,0.0
+formoso,MG,2,0,0.0,0.0
+fortaleza dos valos,RS,1,0,0.0,0.0
+foz do iguacu,PR,86,6,0.18604651162790697,6.98
+foz do jordao,PR,1,0,0.0,0.0
+franca,SP,154,8,0.2012987012987013,5.19
+francisco badaro,MG,3,0,0.0,0.0
+francisco beltrao,PR,50,1,0.14,2.0
+francisco dumont,MG,2,0,0.0,0.0
+francisco morato,SP,94,4,0.13829787234042554,4.26
+francisco sa,MG,3,0,0.0,0.0
+franco da rocha,SP,108,1,0.037037037037037035,0.93
+frederico westphalen,RS,14,1,0.7142857142857143,7.14
+frei gaspar,MG,1,0,0.0,0.0
+frei inocencio,MG,5,0,0.0,0.0
+frei lagonegro,MG,1,0,0.0,0.0
+fronteira,MG,6,1,0.0,16.67
+fruta de leite,MG,2,0,0.0,0.0
+frutal,MG,24,0,0.0,0.0
+gabriel monteiro,SP,1,0,0.0,0.0
+galia,SP,1,0,0.0,0.0
+gameleiras,MG,3,0,0.0,0.0
+garca,SP,27,0,0.0,0.0
+garibaldi,RS,9,0,0.0,0.0
+garruchos,RS,1,0,0.0,0.0
+gastao vidigal,SP,3,0,0.0,0.0
+gaurama,RS,3,0,0.0,0.0
+gaviao peixoto,SP,2,0,0.0,0.0
+general camara,RS,1,0,0.0,0.0
+general carneiro,PR,5,1,0.8,20.0
+general salgado,SP,6,1,0.16666666666666666,16.67
+getulina,SP,2,0,0.0,0.0
+getulio vargas,RS,8,1,0.125,12.5
+girua,RS,10,1,0.7,10.0
+glaura,MG,1,1,37.0,100.0
+glicerio,RJ,2,2,5.5,100.0
+glicerio,SP,2,1,1.0,50.0
+glorinha,RS,2,0,0.0,0.0
+godoy moreira,PR,1,0,0.0,0.0
+goiabeira,MG,2,0,0.0,0.0
+goiana,MG,3,0,0.0,0.0
+goioere,PR,11,0,0.0,0.0
+goitacazes,RJ,11,2,0.9090909090909091,18.18
+goncalves,MG,3,0,0.0,0.0
+gouveia,MG,4,1,3.5,25.0
+governador portela,RJ,4,0,0.0,0.0
+governador valadares,MG,134,5,0.3656716417910448,3.73
+gramado,RS,29,0,0.0,0.0
+gramado dos loureiros,RS,1,0,0.0,0.0
+gramado xavier,RS,1,0,0.0,0.0
+grandes rios,PR,2,0,0.0,0.0
+grao mogol,MG,3,1,2.3333333333333335,33.33
+gravatai,RS,111,3,0.04504504504504504,2.7
+grupiara,MG,1,0,0.0,0.0
+guabiju,RS,1,0,0.0,0.0
+guaiba,RS,31,3,1.1935483870967742,9.68
+guaicara,SP,8,0,0.0,0.0
+guaira,PR,7,0,0.0,0.0
+guaira,SP,36,4,0.3611111111111111,11.11
+guairaca,PR,1,0,0.0,0.0
+guamiranga,PR,1,0,0.0,0.0
+guanhaes,MG,18,1,0.5,5.56
+guape,MG,1,0,0.0,0.0
+guapiacu,SP,6,0,0.0,0.0
+guapiara,SP,3,0,0.0,0.0
+guapimirim,RJ,21,1,0.7619047619047619,4.76
+guapirama,PR,1,0,0.0,0.0
+guapore,RS,18,1,0.16666666666666666,5.56
+guara,SP,7,0,0.0,0.0
+guaracai,SP,5,0,0.0,0.0
+guaraci,PR,2,0,0.0,0.0
+guaraci,SP,2,0,0.0,0.0
+guaraciaba,MG,2,0,0.0,0.0
+guaranesia,MG,9,0,0.0,0.0
+guarani,MG,7,1,0.2857142857142857,14.29
+guarani das missoes,RS,2,0,0.0,0.0
+guaraniacu,PR,5,0,0.0,0.0
+guaranta,SP,5,0,0.0,0.0
+guarapua,SP,1,0,0.0,0.0
+guarapuava,PR,62,3,0.27419354838709675,4.84
+guaraquecaba,PR,1,0,0.0,0.0
+guarara,MG,2,0,0.0,0.0
+guararapes,SP,18,1,0.05555555555555555,5.56
+guararema,SP,11,0,0.0,0.0
+guaratingueta,SP,96,7,0.6875,7.29
+guaratuba,PR,9,0,0.0,0.0
+guarda-mor,MG,2,0,0.0,0.0
+guarei,SP,5,0,0.0,0.0
+guariba,SP,14,2,0.6428571428571429,14.29
+guariroba,SP,2,0,0.0,0.0
+guaruja,SP,217,12,0.23963133640552994,5.53
+guarulhos,SP,1143,72,0.35870516185476814,6.3
+guatapara,SP,1,0,0.0,0.0
+guaxupe,MG,37,5,0.3783783783783784,13.51
+guidoval,MG,2,1,1.0,50.0
+guimarania,MG,4,0,0.0,0.0
+guinda,MG,1,1,1.0,100.0
+guiricema,MG,1,0,0.0,0.0
+guzolandia,SP,1,0,0.0,0.0
+herculandia,SP,3,0,0.0,0.0
+herval,RS,1,0,0.0,0.0
+herveiras,RS,1,0,0.0,0.0
+holambra,SP,23,0,0.0,0.0
+holambra ii,SP,5,2,3.2,40.0
+horizontina,RS,7,0,0.0,0.0
+hortolandia,SP,142,30,1.380281690140845,21.13
+hulha negra,RS,1,0,0.0,0.0
+iacanga,SP,6,0,0.0,0.0
+iacri,SP,2,0,0.0,0.0
+iapu,MG,4,1,8.75,25.0
+iaras,SP,1,0,0.0,0.0
+ibaiti,PR,11,0,0.0,0.0
+ibarama,RS,1,0,0.0,0.0
+ibate,SP,12,1,0.75,8.33
+ibema,PR,1,0,0.0,0.0
+ibertioga,MG,1,0,0.0,0.0
+ibia,MG,8,1,0.125,12.5
+ibiaca,RS,2,0,0.0,0.0
+ibiai,MG,3,0,0.0,0.0
+ibipora,PR,12,0,0.0,0.0
+ibira,SP,6,0,0.0,0.0
+ibiracatu,MG,1,0,0.0,0.0
+ibiraci,MG,3,0,0.0,0.0
+ibiraiaras,RS,2,0,0.0,0.0
+ibirarema,SP,5,0,0.0,0.0
+ibirite,MG,47,1,0.0425531914893617,2.13
+ibiruba,RS,20,0,0.0,0.0
+ibitinga,SP,22,0,0.0,0.0
+ibitioca,RJ,1,0,0.0,0.0
+ibitiuva,SP,1,0,0.0,0.0
+ibiuna,SP,31,2,0.1935483870967742,6.45
+icarai de minas,MG,2,0,0.0,0.0
+icaraima,PR,1,0,0.0,0.0
+icem,SP,9,0,0.0,0.0
+iepe,SP,5,0,0.0,0.0
+igaracu do tiete,SP,4,0,0.0,0.0
+igarapava,SP,7,1,0.2857142857142857,14.29
+igarape,MG,9,0,0.0,0.0
+igarata,SP,5,0,0.0,0.0
+igaratinga,MG,1,0,0.0,0.0
+igrejinha,RS,17,1,0.7058823529411765,5.88
+iguaba grande,RJ,19,6,1.9473684210526316,31.58
+iguape,SP,14,0,0.0,0.0
+iguaracu,PR,2,0,0.0,0.0
+iguatama,MG,3,0,0.0,0.0
+iguatu,PR,1,0,0.0,0.0
+ijui,RS,52,0,0.0,0.0
+ilha comprida,SP,3,0,0.0,0.0
+ilha dos valadares,PR,1,1,11.0,100.0
+ilha solteira,SP,24,1,0.2916666666666667,4.17
+ilhabela,SP,44,2,0.22727272727272727,4.55
+ilicinea,MG,1,0,0.0,0.0
+ilopolis,RS,3,0,0.0,0.0
+imbau,PR,2,0,0.0,0.0
+imbe,RS,13,1,0.46153846153846156,7.69
+imbe de minas,MG,2,0,0.0,0.0
+imbituva,PR,8,0,0.0,0.0
+imigrante,RS,3,0,0.0,0.0
+inacio martins,PR,5,0,0.0,0.0
+inaja,PR,2,0,0.0,0.0
+inconfidentes,MG,2,0,0.0,0.0
+indaiatuba,SP,274,8,0.13138686131386862,2.92
+indiana,SP,3,0,0.0,0.0
+indianopolis,MG,1,0,0.0,0.0
+indianopolis,PR,4,1,0.0,25.0
+indiapora,SP,3,0,0.0,0.0
+ingai,MG,1,1,8.0,100.0
+inhapim,MG,7,0,0.0,0.0
+inhauma,MG,2,0,0.0,0.0
+inimutaba,MG,2,0,0.0,0.0
+inubia paulista,SP,3,0,0.0,0.0
+ipaba,MG,8,1,0.125,12.5
+ipanema,MG,7,0,0.0,0.0
+ipatinga,MG,169,8,0.591715976331361,4.73
+ipaussu,SP,7,0,0.0,0.0
+ipe,RS,2,0,0.0,0.0
+ipero,SP,18,0,0.0,0.0
+ipiabas,RJ,4,0,0.0,0.0
+ipiacu,MG,3,0,0.0,0.0
+ipigua,SP,2,0,0.0,0.0
+ipiranga,PR,3,0,0.0,0.0
+ipiranga,RS,1,0,0.0,0.0
+ipiranga do sul,RS,1,0,0.0,0.0
+ipora,PR,2,0,0.0,0.0
+ipua,SP,4,1,4.75,25.0
+ipuiuna,MG,1,1,9.0,100.0
+iracemapolis,SP,18,1,0.16666666666666666,5.56
+irai,RS,2,0,0.0,0.0
+irai de minas,MG,2,0,0.0,0.0
+irape,SP,2,0,0.0,0.0
+irapua,SP,4,0,0.0,0.0
+irapuru,SP,6,0,0.0,0.0
+irati,PR,22,0,0.0,0.0
+iretama,PR,1,0,0.0,0.0
+itaara,RS,1,1,2.0,100.0
+itabera,SP,7,0,0.0,0.0
+itabira,MG,77,5,0.7792207792207793,6.49
+itabirinha,MG,1,0,0.0,0.0
+itabirito,MG,28,1,0.5,3.57
+itaborai,RJ,56,10,2.5892857142857144,17.86
+itacarambi,MG,3,0,0.0,0.0
+itaguai,RJ,46,5,1.1956521739130435,10.87
+itaguaje,PR,2,0,0.0,0.0
+itaguara,MG,2,0,0.0,0.0
+itai,SP,10,0,0.0,0.0
+itaipulandia,PR,6,0,0.0,0.0
+itajobi,SP,10,0,0.0,0.0
+itaju,SP,3,1,0.6666666666666666,33.33
+itajuba,MG,92,2,0.07608695652173914,2.17
+italva,RJ,12,1,1.3333333333333333,8.33
+itamarandiba,MG,8,0,0.0,0.0
+itambacuri,MG,6,0,0.0,0.0
+itambaraca,PR,2,0,0.0,0.0
+itambe,PR,1,0,0.0,0.0
+itamogi,MG,2,0,0.0,0.0
+itamonte,MG,10,0,0.0,0.0
+itanhaem,SP,74,3,0.44594594594594594,4.05
+itanhandu,MG,13,1,0.5384615384615384,7.69
+itanhomi,MG,4,0,0.0,0.0
+itaobim,MG,6,0,0.0,0.0
+itaoca,SP,1,0,0.0,0.0
+itaocara,RJ,16,2,0.8125,12.5
+itapagipe,MG,5,0,0.0,0.0
+itapecerica,MG,13,0,0.0,0.0
+itapecerica da serra,SP,93,10,0.5053763440860215,10.75
+itapejara d'oeste,PR,6,0,0.0,0.0
+itaperucu,PR,4,1,0.5,25.0
+itaperuna,RJ,46,12,3.0,26.09
+itapetininga,SP,77,6,0.5584415584415584,7.79
+itapeva,MG,5,0,0.0,0.0
+itapeva,SP,52,1,0.09615384615384616,1.92
+itapevi,SP,170,11,0.6352941176470588,6.47
+itapira,SP,52,2,1.2115384615384615,3.85
+itapirapua paulista,SP,2,0,0.0,0.0
+itapolis,SP,28,2,3.0,7.14
+itaporanga,SP,12,0,0.0,0.0
+itapui,SP,7,1,1.1428571428571428,14.29
+itapura,SP,6,0,0.0,0.0
+itaquaquecetuba,SP,168,19,1.0416666666666667,11.31
+itaqui,RS,9,1,0.2222222222222222,11.11
+itarare,SP,28,1,0.14285714285714285,3.57
+itariri,SP,6,1,0.3333333333333333,16.67
+itatiaia,RJ,18,3,4.722222222222222,16.67
+itatiaiucu,MG,2,1,12.0,50.0
+itatiba,SP,97,1,0.07216494845360824,1.03
+itatiba do sul,RS,1,0,0.0,0.0
+itatinga,SP,4,0,0.0,0.0
+itau de minas,MG,5,0,0.0,0.0
+itauna,MG,56,5,0.25,8.93
+itinga,MG,3,0,0.0,0.0
+itirapina,SP,2,1,0.5,50.0
+itobi,SP,7,0,0.0,0.0
+itu,SP,129,9,0.37209302325581395,6.98
+itueta,MG,2,0,0.0,0.0
+ituiutaba,MG,53,3,0.05660377358490566,5.66
+itupeva,SP,42,4,0.5476190476190477,9.52
+iturama,MG,14,1,0.42857142857142855,7.14
+itutinga,MG,1,0,0.0,0.0
+ituverava,SP,28,0,0.0,0.0
+ivai,PR,2,0,0.0,0.0
+ivaipora,PR,7,0,0.0,0.0
+ivate,PR,3,0,0.0,0.0
+ivora,RS,1,0,0.0,0.0
+ivoti,RS,13,1,0.07692307692307693,7.69
+jaborandi,SP,3,0,0.0,0.0
+jaboti,PR,2,0,0.0,0.0
+jaboticabal,SP,50,1,0.04,2.0
+jaboticatubas,MG,1,0,0.0,0.0
+jacare,SP,8,0,0.0,0.0
+jacarei,SP,189,12,1.0687830687830688,6.35
+jacarezinho,PR,16,0,0.0,0.0
+jaci,SP,2,0,0.0,0.0
+jacinto,MG,2,0,0.0,0.0
+jacui,MG,4,0,0.0,0.0
+jacuizinho,RS,1,1,5.0,100.0
+jacupiranga,SP,5,0,0.0,0.0
+jacutinga,MG,18,1,0.1111111111111111,5.56
+jacutinga,RS,1,0,0.0,0.0
+jaguaracu,MG,1,0,0.0,0.0
+jaguarao,RS,8,0,0.0,0.0
+jaguarembe,RJ,1,0,0.0,0.0
+jaguari,RS,3,0,0.0,0.0
+jaguariaiva,PR,17,0,0.0,0.0
+jaguariuna,SP,60,1,0.1,1.67
+jaiba,MG,6,0,0.0,0.0
+jales,SP,28,1,0.03571428571428571,3.57
+jamaica,SP,1,0,0.0,0.0
+jamapara,RJ,1,0,0.0,0.0
+jambeiro,SP,4,0,0.0,0.0
+jampruca,MG,1,0,0.0,0.0
+janauba,MG,16,0,0.0,0.0
+jandaia do sul,PR,8,1,2.0,12.5
+jandira,SP,84,4,0.25,4.76
+janiopolis,PR,3,0,0.0,0.0
+januaria,MG,22,3,2.3181818181818183,13.64
+japaraiba,MG,1,0,0.0,0.0
+japeri,RJ,34,5,2.764705882352941,14.71
+japira,PR,3,0,0.0,0.0
+japuiba,RJ,5,1,1.6,20.0
+japura,PR,5,0,0.0,0.0
+jaquirana,RS,1,0,0.0,0.0
+jardim alegre,PR,2,0,0.0,0.0
+jardim olinda,PR,1,0,0.0,0.0
+jardinopolis,SP,13,0,0.0,0.0
+jari,RS,4,0,0.0,0.0
+jarinu,SP,18,0,0.0,0.0
+jau,SP,73,2,0.1095890410958904,2.74
+jeceaba,MG,6,0,0.0,0.0
+jenipapo de minas,MG,1,0,0.0,0.0
+jequeri,MG,1,1,4.0,100.0
+jequitai,MG,2,0,0.0,0.0
+jequitiba,MG,2,0,0.0,0.0
+jequitinhonha,MG,11,0,0.0,0.0
+jeriquara,SP,1,0,0.0,0.0
+jesuania,MG,5,1,1.0,20.0
+jesuitas,PR,4,0,0.0,0.0
+joaima,MG,1,0,0.0,0.0
+joanopolis,SP,6,0,0.0,0.0
+joao monlevade,MG,50,1,0.04,2.0
+joao pinheiro,MG,16,2,1.25,12.5
+joao ramalho,SP,3,0,0.0,0.0
+joaquim tavora,PR,3,1,0.6666666666666666,33.33
+jordania,MG,5,0,0.0,0.0
+jose bonifacio,SP,12,0,0.0,0.0
+juatuba,MG,4,0,0.0,0.0
+juiz de fora,MG,423,25,0.47044917257683216,5.91
+julio de castilhos,RS,10,1,0.0,10.0
+julio mesquita,SP,2,0,0.0,0.0
+jumirim,SP,3,0,0.0,0.0
+jundiai,SP,549,33,0.48451730418943534,6.01
+jundiai do sul,PR,3,0,0.0,0.0
+junqueiropolis,SP,15,0,0.0,0.0
+juquia,SP,9,0,0.0,0.0
+juquitiba,SP,21,0,0.0,0.0
+juranda,PR,2,1,1.5,50.0
+juruaia,MG,6,0,0.0,0.0
+jussara,PR,1,0,0.0,0.0
+juvenilia,MG,2,0,0.0,0.0
+kalore,PR,2,0,0.0,0.0
+ladainha,MG,2,0,0.0,0.0
+lagoa da prata,MG,10,0,0.0,0.0
+lagoa dos patos,MG,1,0,0.0,0.0
+lagoa dos tres cantos,RS,1,0,0.0,0.0
+lagoa dourada,MG,5,1,1.0,20.0
+lagoa formosa,MG,7,0,0.0,0.0
+lagoa grande,MG,4,0,0.0,0.0
+lagoa santa,MG,58,1,0.017241379310344827,1.72
+lagoa vermelha,RS,14,0,0.0,0.0
+lagoao,RS,1,0,0.0,0.0
+lagoinha,SP,3,0,0.0,0.0
+laje do muriae,RJ,1,0,0.0,0.0
+lajeado,RS,50,1,0.16,2.0
+lajinha,MG,3,0,0.0,0.0
+lambari,MG,8,0,0.0,0.0
+lamim,MG,1,1,1.0,100.0
+lapa,PR,14,0,0.0,0.0
+laranjal,MG,1,0,0.0,0.0
+laranjal,PR,1,0,0.0,0.0
+laranjal paulista,SP,17,1,0.8823529411764706,5.88
+laranjeiras do sul,PR,19,0,0.0,0.0
+lavinia,SP,4,0,0.0,0.0
+lavras,MG,80,11,2.2,13.75
+lavras do sul,RS,3,0,0.0,0.0
+lavrinhas,SP,1,0,0.0,0.0
+leandro ferreira,MG,2,0,0.0,0.0
+leme,SP,50,3,0.42,6.0
+lencois paulista,SP,43,1,0.32558139534883723,2.33
+leopoldina,MG,17,0,0.0,0.0
+leopolis,PR,1,0,0.0,0.0
+liberato salzano,RS,1,0,0.0,0.0
+liberdade,MG,3,0,0.0,0.0
+lima duarte,MG,6,1,0.8333333333333334,16.67
+limeira,SP,186,9,0.24193548387096775,4.84
+limeira do oeste,MG,2,0,0.0,0.0
+lindoeste,PR,2,0,0.0,0.0
+lindoia,SP,9,0,0.0,0.0
+lindolfo collor,RS,1,0,0.0,0.0
+lins,SP,54,5,1.0,9.26
+loanda,PR,13,0,0.0,0.0
+lobato,PR,3,0,0.0,0.0
+londrina,PR,298,11,0.28187919463087246,3.69
+lorena,SP,82,4,0.7317073170731707,4.88
+lourdes,SP,2,0,0.0,0.0
+louveira,SP,44,4,1.0227272727272727,9.09
+lucelia,SP,12,1,0.6666666666666666,8.33
+lucianopolis,SP,2,0,0.0,0.0
+luis antonio,SP,7,0,0.0,0.0
+luisburgo,MG,2,0,0.0,0.0
+luiziana,PR,2,0,0.0,0.0
+luiziania,SP,3,0,0.0,0.0
+luizlandia do oeste,MG,2,0,0.0,0.0
+luminarias,MG,3,0,0.0,0.0
+lunardelli,PR,2,0,0.0,0.0
+lupercio,SP,3,0,0.0,0.0
+lupionopolis,PR,2,0,0.0,0.0
+lutecia,SP,1,0,0.0,0.0
+luz,MG,2,0,0.0,0.0
+macae,RJ,228,42,2.8859649122807016,18.42
+macambara,RS,2,0,0.0,0.0
+macatuba,SP,12,0,0.0,0.0
+macaubal,SP,1,0,0.0,0.0
+macedonia,SP,4,0,0.0,0.0
+machacalis,MG,2,0,0.0,0.0
+machadinho,RS,1,1,30.0,100.0
+machado,MG,21,2,0.09523809523809523,9.52
+macuco,RJ,1,0,0.0,0.0
+macuco de minas,MG,1,0,0.0,0.0
+madre de deus de minas,MG,3,1,0.3333333333333333,33.33
+magda,SP,2,0,0.0,0.0
+mage,RJ,106,4,0.9056603773584906,3.77
+mairinque,SP,24,0,0.0,0.0
+mairipora,SP,75,7,0.25333333333333335,9.33
+major porto,MG,1,0,0.0,0.0
+malacacheta,MG,7,0,0.0,0.0
+mallet,PR,6,0,0.0,0.0
+mambore,PR,8,0,0.0,0.0
+mamonas,MG,1,0,0.0,0.0
+mampituba,RS,1,0,0.0,0.0
+mandaguacu,PR,4,0,0.0,0.0
+mandaguari,PR,18,2,0.2222222222222222,11.11
+mandirituba,PR,1,1,3.0,100.0
+manduri,SP,3,0,0.0,0.0
+manfrinopolis,PR,1,0,0.0,0.0
+manga,MG,3,0,0.0,0.0
+mangaratiba,RJ,12,3,4.75,25.0
+mangueirinha,PR,8,0,0.0,0.0
+manhuacu,MG,64,4,0.265625,6.25
+manhumirim,MG,16,0,0.0,0.0
+manoel ribas,PR,4,1,1.75,25.0
+manoel viana,RS,3,1,0.3333333333333333,33.33
+mantena,MG,11,1,1.1818181818181819,9.09
+maquine,RS,1,0,0.0,0.0
+mar de espanha,MG,9,0,0.0,0.0
+maracai,SP,8,0,0.0,0.0
+marau,RS,22,1,0.0,4.55
+maravilhas,MG,4,0,0.0,0.0
+marechal candido rondon,PR,30,3,0.43333333333333335,10.0
+maria da fe,MG,3,0,0.0,0.0
+marialva,PR,16,0,0.0,0.0
+mariana,MG,33,2,0.18181818181818182,6.06
+mariano moro,RS,1,0,0.0,0.0
+mariapolis,SP,2,0,0.0,0.0
+marica,RJ,133,21,1.8120300751879699,15.79
+mariental,PR,1,0,0.0,0.0
+marilac,MG,1,0,0.0,0.0
+marilandia do sul,PR,1,0,0.0,0.0
+marilena,PR,1,0,0.0,0.0
+marilia,SP,194,6,0.17525773195876287,3.09
+mariluz,PR,2,0,0.0,0.0
+maringa,PR,260,15,0.35384615384615387,5.77
+marinopolis,SP,2,0,0.0,0.0
+mario campos,MG,3,0,0.0,0.0
+mariopolis,PR,1,0,0.0,0.0
+maripa,PR,3,0,0.0,0.0
+maristela,SP,4,1,3.0,25.0
+marmeleiro,PR,7,1,6.142857142857143,14.29
+marques de souza,RS,1,0,0.0,0.0
+martinesia,MG,1,0,0.0,0.0
+martinho campos,MG,2,0,0.0,0.0
+martinopolis,SP,8,0,0.0,0.0
+martins soares,MG,6,1,0.6666666666666666,16.67
+mata,RS,1,0,0.0,0.0
+mata verde,MG,6,0,0.0,0.0
+matao,SP,51,0,0.0,0.0
+matelandia,PR,2,0,0.0,0.0
+materlandia,MG,2,0,0.0,0.0
+mateus leme,MG,8,1,2.625,12.5
+matias barbosa,MG,13,0,0.0,0.0
+matinhos,PR,27,1,0.037037037037037035,3.7
+matipo,MG,4,0,0.0,0.0
+mato leitao,RS,2,0,0.0,0.0
+mato rico,PR,1,0,0.0,0.0
+mato verde,MG,3,0,0.0,0.0
+matozinhos,MG,12,0,0.0,0.0
+matutina,MG,2,0,0.0,0.0
+maua,SP,317,29,0.7602523659305994,9.15
+maua da serra,PR,2,0,0.0,0.0
+maximiliano de almeida,RS,3,0,0.0,0.0
+medeiros,MG,2,0,0.0,0.0
+medianeira,PR,21,1,0.19047619047619047,4.76
+medina,MG,6,0,0.0,0.0
+mendes,RJ,12,0,0.0,0.0
+mendes pimentel,MG,5,0,0.0,0.0
+mendonca,MG,1,0,0.0,0.0
+mendonca,SP,4,1,1.0,25.0
+mercedes,PR,2,1,4.5,50.0
+merces,MG,4,1,2.0,25.0
+meridiano,SP,1,0,0.0,0.0
+mesquita,MG,1,0,0.0,0.0
+mesquita,RJ,75,7,1.28,9.33
+miguel pereira,RJ,28,4,2.357142857142857,14.29
+miguelopolis,SP,14,0,0.0,0.0
+minas do leao,RS,1,0,0.0,0.0
+minas novas,MG,4,0,0.0,0.0
+minduri,MG,1,0,0.0,0.0
+mineiros do tiete,SP,3,0,0.0,0.0
+mira estrela,SP,1,0,0.0,0.0
+miracatu,SP,5,0,0.0,0.0
+miracema,RJ,17,1,0.29411764705882354,5.88
+miradouro,MG,1,0,0.0,0.0
+miraguai,RS,1,0,0.0,0.0
+mirai,MG,8,0,0.0,0.0
+mirandopolis,SP,13,1,0.07692307692307693,7.69
+mirante do paranapanema,SP,3,0,0.0,0.0
+mirassol,SP,29,2,0.5517241379310345,6.9
+miravania,MG,1,0,0.0,0.0
+missal,PR,7,1,0.8571428571428571,14.29
+mococa,SP,33,0,0.0,0.0
+moeda,MG,1,0,0.0,0.0
+moema,MG,1,0,0.0,0.0
+mogi das cruzes,SP,374,14,0.3074866310160428,3.74
+mogi mirim,SP,75,1,0.09333333333333334,1.33
+mogi-guacu,SP,89,6,0.47191011235955055,6.74
+mogi-mirim,SP,2,0,0.0,0.0
+mombuca,SP,3,1,5.333333333333333,33.33
+moncoes,SP,2,0,0.0,0.0
+mongagua,SP,41,2,0.3902439024390244,4.88
+monnerat,RJ,2,0,0.0,0.0
+monsenhor paulo,MG,1,0,0.0,0.0
+montalvania,MG,3,0,0.0,0.0
+montauri,RS,2,0,0.0,0.0
+monte alegre de minas,MG,4,0,0.0,0.0
+monte alegre do sul,SP,6,0,0.0,0.0
+monte alto,SP,32,1,0.03125,3.12
+monte alverne,RS,1,0,0.0,0.0
+monte aprazivel,SP,10,0,0.0,0.0
+monte azul,MG,5,0,0.0,0.0
+monte azul paulista,SP,19,1,0.05263157894736842,5.26
+monte belo,MG,5,1,0.2,20.0
+monte belo do sul,RS,1,0,0.0,0.0
+monte bonito,RS,1,0,0.0,0.0
+monte carmelo,MG,23,0,0.0,0.0
+monte castelo,SP,1,0,0.0,0.0
+monte formoso,MG,2,0,0.0,0.0
+monte mor,SP,38,4,1.0526315789473684,10.53
+monte santo de minas,MG,9,1,0.4444444444444444,11.11
+monte siao,MG,20,4,1.0,20.0
+monte verde,MG,3,2,7.333333333333333,66.67
+montenegro,RS,32,2,0.0625,6.25
+montes claros,MG,207,7,0.18840579710144928,3.38
+montezuma,MG,2,0,0.0,0.0
+morada nova de minas,MG,3,0,0.0,0.0
+moreira sales,PR,3,0,0.0,0.0
+morretes,PR,3,0,0.0,0.0
+morro agudo,SP,9,0,0.0,0.0
+morro da garca,MG,1,0,0.0,0.0
+morro do ferro,MG,1,0,0.0,0.0
+morro do pilar,MG,1,0,0.0,0.0
+morro redondo,RS,1,0,0.0,0.0
+morro reuter,RS,3,0,0.0,0.0
+morro vermelho,MG,1,0,0.0,0.0
+morungaba,SP,7,1,0.2857142857142857,14.29
+mostardas,RS,11,0,0.0,0.0
+motuca,SP,2,0,0.0,0.0
+munhoz,MG,4,0,0.0,0.0
+munhoz de melo,PR,4,0,0.0,0.0
+muriae,MG,63,2,0.07936507936507936,3.17
+murutinga do sul,SP,2,0,0.0,0.0
+mussurepe,RJ,1,1,17.0,100.0
+mutum,MG,8,0,0.0,0.0
+muzambinho,MG,9,1,0.1111111111111111,11.11
+nacip raydan,MG,1,0,0.0,0.0
+nantes,SP,1,0,0.0,0.0
+nanuque,MG,25,3,0.44,12.0
+nao-me-toque,RS,7,1,0.8571428571428571,14.29
+narandiba,SP,2,0,0.0,0.0
+natercia,MG,1,0,0.0,0.0
+natividade,RJ,15,2,1.8,13.33
+natividade da serra,SP,1,0,0.0,0.0
+nazare paulista,SP,7,0,0.0,0.0
+nazareno,MG,2,0,0.0,0.0
+nepomuceno,MG,9,0,0.0,0.0
+neves paulista,SP,3,0,0.0,0.0
+nhandeara,SP,7,0,0.0,0.0
+nilopolis,RJ,103,14,1.3398058252427185,13.59
+nipoa,SP,2,1,1.0,50.0
+niteroi,RJ,825,103,1.6690909090909092,12.48
+nonoai,RS,2,0,0.0,0.0
+nossa senhora das gracas,PR,2,0,0.0,0.0
+nossa senhora do remedio,SP,2,0,0.0,0.0
+nova alvorada,RS,3,0,0.0,0.0
+nova america da colina,PR,1,0,0.0,0.0
+nova araca,RS,1,0,0.0,0.0
+nova aurora,PR,3,0,0.0,0.0
+nova bassano,RS,4,0,0.0,0.0
+nova boa vista,RS,1,0,0.0,0.0
+nova campina,SP,2,0,0.0,0.0
+nova canaa paulista,SP,2,0,0.0,0.0
+nova cantu,PR,2,0,0.0,0.0
+nova era,MG,15,0,0.0,0.0
+nova esperanca,PR,8,0,0.0,0.0
+nova esperanca do sudoeste,PR,1,0,0.0,0.0
+nova esperanca do sul,RS,2,0,0.0,0.0
+nova europa,SP,8,0,0.0,0.0
+nova fatima,PR,4,0,0.0,0.0
+nova friburgo,RJ,142,30,4.274647887323944,21.13
+nova granada,SP,19,1,0.10526315789473684,5.26
+nova guataporanga,SP,1,0,0.0,0.0
+nova hartz,RS,3,0,0.0,0.0
+nova iguacu,RJ,423,57,1.4657210401891252,13.48
+nova independencia,SP,1,0,0.0,0.0
+nova laranjeiras,PR,1,0,0.0,0.0
+nova lima,MG,96,9,0.4479166666666667,9.38
+nova londrina,PR,9,0,0.0,0.0
+nova luzitania,SP,1,1,9.0,100.0
+nova odessa,SP,37,2,1.0,5.41
+nova padua,RS,1,0,0.0,0.0
+nova palma,RS,2,0,0.0,0.0
+nova petropolis,RS,8,1,0.5,12.5
+nova ponte,MG,9,1,1.2222222222222223,11.11
+nova prata,RS,16,0,0.0,0.0
+nova prata do iguacu,PR,6,1,2.8333333333333335,16.67
+nova resende,MG,1,0,0.0,0.0
+nova roma do sul,RS,1,0,0.0,0.0
+nova santa barbara,PR,1,0,0.0,0.0
+nova santa rita,RS,5,0,0.0,0.0
+nova santa rosa,PR,4,0,0.0,0.0
+nova serrana,MG,49,4,0.8571428571428571,8.16
+novais,SP,1,0,0.0,0.0
+novo barreiro,RS,2,0,0.0,0.0
+novo cabrais,RS,1,0,0.0,0.0
+novo cruzeiro,MG,9,0,0.0,0.0
+novo hamburgo,RS,121,9,0.8512396694214877,7.44
+novo horizonte,SP,16,1,0.25,6.25
+novo itacolomi,PR,1,0,0.0,0.0
+novo machado,RS,1,0,0.0,0.0
+nuporanga,SP,3,0,0.0,0.0
+ocaucu,SP,5,0,0.0,0.0
+olaria,MG,1,0,0.0,0.0
+oleo,SP,1,0,0.0,0.0
+olhos d'agua,MG,1,0,0.0,0.0
+olimpia,SP,36,2,0.08333333333333333,5.56
+oliveira,MG,22,2,0.4090909090909091,9.09
+onda verde,SP,1,0,0.0,0.0
+oriente,SP,3,0,0.0,0.0
+orindiuva,SP,5,0,0.0,0.0
+orizania,MG,1,0,0.0,0.0
+orlandia,SP,28,0,0.0,0.0
+ortigueira,PR,8,0,0.0,0.0
+osasco,SP,724,35,0.2886740331491713,4.83
+oscar bressane,SP,3,0,0.0,0.0
+osorio,RS,35,0,0.0,0.0
+osvaldo cruz,SP,16,0,0.0,0.0
+osvaldo kroeff,RS,1,0,0.0,0.0
+ourinhos,SP,77,4,0.18181818181818182,5.19
+ourizona,PR,1,0,0.0,0.0
+ouro branco,MG,41,4,1.2195121951219512,9.76
+ouro fino,MG,16,1,0.75,6.25
+ouro preto,MG,55,4,0.6,7.27
+ouro verde,SP,3,0,0.0,0.0
+ouro verde de minas,MG,2,0,0.0,0.0
+ouro verde do oeste,PR,1,0,0.0,0.0
+ouroeste,SP,11,1,0.9090909090909091,9.09
+pacaembu,SP,6,0,0.0,0.0
+padre carvalho,MG,1,0,0.0,0.0
+padre gonzales,RS,1,0,0.0,0.0
+padre paraiso,MG,1,0,0.0,0.0
+paicandu,PR,10,0,0.0,0.0
+paineiras,MG,1,0,0.0,0.0
+pains,MG,3,0,0.0,0.0
+paiva,MG,2,0,0.0,0.0
+palestina,SP,10,0,0.0,0.0
+palma,MG,4,0,0.0,0.0
+palmares do sul,RS,5,0,0.0,0.0
+palmares paulista,SP,1,0,0.0,0.0
+palmas,PR,19,1,0.05263157894736842,5.26
+palmeira,PR,12,2,0.75,16.67
+palmeira d oeste,SP,1,0,0.0,0.0
+palmeira d'oeste,SP,5,0,0.0,0.0
+palmeira das missoes,RS,16,0,0.0,0.0
+palmeirinha,PR,2,0,0.0,0.0
+palmital,PR,1,0,0.0,0.0
+palmital,SP,18,1,1.0,5.56
+palmitinho,RS,5,0,0.0,0.0
+palmopolis,MG,1,0,0.0,0.0
+palotina,PR,10,1,0.5,10.0
+panambi,RS,17,1,1.0588235294117647,5.88
+panorama,SP,5,0,0.0,0.0
+pantano grande,RS,3,0,0.0,0.0
+papagaios,MG,4,0,0.0,0.0
+papucaia,RJ,10,1,0.2,10.0
+para de minas,MG,37,2,0.13513513513513514,5.41
+paracambi,RJ,35,4,1.3142857142857143,11.43
+paracatu,MG,62,4,0.7580645161290323,6.45
+paraguacu,MG,12,0,0.0,0.0
+paraguacu paulista,SP,20,0,0.0,0.0
+parai,RS,3,0,0.0,0.0
+paraiba do sul,RJ,18,3,1.7777777777777777,16.67
+paraibuna,SP,10,1,1.1,10.0
+paraiso,SP,5,0,0.0,0.0
+paraiso do norte,PR,3,0,0.0,0.0
+paraiso do sul,RS,1,0,0.0,0.0
+paraisopolis,MG,15,0,0.0,0.0
+paranacity,PR,3,0,0.0,0.0
+paranagua,PR,58,5,0.6379310344827587,8.62
+paranapanema,SP,11,1,1.7272727272727273,9.09
+paranapoema,PR,1,0,0.0,0.0
+paranapua,SP,2,0,0.0,0.0
+paranavai,PR,45,3,0.3333333333333333,6.67
+paraopeba,MG,9,1,1.0,11.11
+parapua,SP,8,0,0.0,0.0
+parati,RJ,13,1,0.46153846153846156,7.69
+paraty,RJ,19,4,3.263157894736842,21.05
+pardinho,SP,1,0,0.0,0.0
+pareci novo,RS,1,0,0.0,0.0
+pariquera-acu,SP,15,2,0.8,13.33
+parisi,SP,1,0,0.0,0.0
+parobe,RS,12,0,0.0,0.0
+passa quatro,MG,9,0,0.0,0.0
+passa tempo,MG,1,0,0.0,0.0
+passa tres,RJ,2,1,1.0,50.0
+passo fundo,RS,112,5,0.5892857142857143,4.46
+passos,MG,43,0,0.0,0.0
+patis,MG,1,0,0.0,0.0
+pato bragado,PR,2,0,0.0,0.0
+pato branco,PR,53,1,0.018867924528301886,1.89
+patos de minas,MG,99,6,0.3939393939393939,6.06
+patrocinio,MG,45,2,0.4,4.44
+patrocinio do muriae,MG,2,1,5.0,50.0
+patrocinio paulista,SP,2,0,0.0,0.0
+paty do alferes,RJ,13,2,3.3076923076923075,15.38
+paula candido,MG,1,0,0.0,0.0
+paula freitas,PR,1,0,0.0,0.0
+pauliceia,SP,2,0,0.0,0.0
+paulinia,SP,127,11,1.7007874015748032,8.66
+paulistania,SP,1,0,0.0,0.0
+paulo de faria,SP,5,0,0.0,0.0
+paulo frontin,PR,5,0,0.0,0.0
+pavao,MG,1,0,0.0,0.0
+peabiru,PR,4,1,5.0,25.0
+pecanha,MG,4,0,0.0,0.0
+pederneiras,SP,21,0,0.0,0.0
+pedra azul,MG,5,1,9.8,20.0
+pedra bela,SP,2,0,0.0,0.0
+pedra do indaia,MG,1,0,0.0,0.0
+pedra menina,MG,1,0,0.0,0.0
+pedralva,MG,3,0,0.0,0.0
+pedranopolis,SP,1,0,0.0,0.0
+pedras altas,RS,1,0,0.0,0.0
+pedregulho,SP,2,0,0.0,0.0
+pedreira,SP,36,2,0.2777777777777778,5.56
+pedrinhas paulista,SP,4,0,0.0,0.0
+pedrinopolis,MG,3,0,0.0,0.0
+pedro de toledo,SP,8,0,0.0,0.0
+pedro leopoldo,MG,40,1,0.05,2.5
+pedro osorio,RS,3,0,0.0,0.0
+pejucara,RS,4,0,0.0,0.0
+pelotas,RS,183,12,0.7049180327868853,6.56
+penapolis,SP,37,0,0.0,0.0
+penedo,RJ,1,0,0.0,0.0
+pequi,MG,1,0,0.0,0.0
+perdigao,MG,6,0,0.0,0.0
+perdizes,MG,8,1,20.375,12.5
+perdoes,MG,9,0,0.0,0.0
+pereira barreto,SP,18,0,0.0,0.0
+pereiras,SP,1,0,0.0,0.0
+periquito,MG,2,0,0.0,0.0
+perobal,PR,1,0,0.0,0.0
+perola,PR,2,0,0.0,0.0
+perola d'oeste,PR,2,0,0.0,0.0
+perola independente,PR,1,0,0.0,0.0
+perpetuo socorro,MG,2,0,0.0,0.0
+peruibe,SP,43,2,0.4883720930232558,4.65
+pescador,MG,1,1,2.0,100.0
+petropolis,RJ,234,30,1.5598290598290598,12.82
+piacatu,SP,1,0,0.0,0.0
+piau,MG,2,0,0.0,0.0
+picada cafe,RS,1,0,0.0,0.0
+piedade,SP,22,4,0.2727272727272727,18.18
+piedade de caratinga,MG,7,0,0.0,0.0
+piedade do rio grande,MG,3,1,0.0,33.33
+piedade dos gerais,MG,3,0,0.0,0.0
+pien,PR,4,1,3.5,25.0
+pilar do sul,SP,12,1,0.16666666666666666,8.33
+pimenta,MG,2,0,0.0,0.0
+pindamonhangaba,SP,97,5,0.35051546391752575,5.15
+pindorama,SP,2,0,0.0,0.0
+pingo-d'agua,MG,1,0,0.0,0.0
+pinhais,PR,66,2,0.22727272727272727,3.03
+pinhal da serra,RS,1,0,0.0,0.0
+pinhalao,PR,7,0,0.0,0.0
+pinhalzinho,SP,12,1,0.08333333333333333,8.33
+pinhao,PR,8,1,0.125,12.5
+pinheiral,RJ,14,1,0.6428571428571429,7.14
+pinheiro machado,RS,5,0,0.0,0.0
+pinheiros,SP,1,0,0.0,0.0
+pinhotiba,MG,1,0,0.0,0.0
+piquerobi,SP,1,0,0.0,0.0
+piquete,SP,9,0,0.0,0.0
+piracaia,SP,21,1,0.38095238095238093,4.76
+piracema,MG,1,0,0.0,0.0
+piracicaba,SP,356,9,0.12921348314606743,2.53
+pirai,RJ,15,3,4.866666666666666,20.0
+pirai do sul,PR,6,0,0.0,0.0
+piraju,SP,17,0,0.0,0.0
+pirajuba,MG,1,0,0.0,0.0
+pirajui,SP,12,0,0.0,0.0
+piranga,MG,4,1,0.25,25.0
+pirangi,SP,7,0,0.0,0.0
+piranguinho,MG,9,1,0.1111111111111111,11.11
+pirapetinga,MG,7,0,0.0,0.0
+pirapo,PR,1,0,0.0,0.0
+pirapora,MG,42,1,0.023809523809523808,2.38
+pirapora do bom jesus,SP,16,1,0.0625,6.25
+pirapozinho,SP,14,0,0.0,0.0
+piraquara,PR,14,1,0.21428571428571427,7.14
+pirassununga,SP,69,6,0.36231884057971014,8.7
+piratini,RS,1,0,0.0,0.0
+piratininga,SP,8,0,0.0,0.0
+pirauba,MG,3,0,0.0,0.0
+pitanga,PR,3,0,0.0,0.0
+pitangueiras,SP,16,1,0.0625,6.25
+pitangui,MG,22,1,0.045454545454545456,4.55
+piumhi,MG,3,0,0.0,0.0
+piumhii,MG,28,2,0.35714285714285715,7.14
+planaltina do parana,PR,1,0,0.0,0.0
+planalto,PR,4,0,0.0,0.0
+planalto,RS,3,0,0.0,0.0
+planalto,SP,1,0,0.0,0.0
+planura,MG,2,0,0.0,0.0
+poa,SP,85,2,0.17647058823529413,2.35
+poco fundo,MG,8,0,0.0,0.0
+pocoes de paineiras,MG,1,0,0.0,0.0
+pocos de caldas,MG,116,10,0.5431034482758621,8.62
+pocrane,MG,3,1,0.6666666666666666,33.33
+polo petroquimico de triunfo,RS,1,1,4.0,100.0
+poloni,SP,3,0,0.0,0.0
+pompeia,SP,17,0,0.0,0.0
+pompeu,MG,11,1,1.0909090909090908,9.09
+pongai,SP,4,0,0.0,0.0
+ponta grossa,PR,141,8,0.41134751773049644,5.67
+pontal,SP,12,0,0.0,0.0
+pontal do parana,PR,8,0,0.0,0.0
+pontalinda,SP,2,1,0.5,50.0
+pontao,RS,1,0,0.0,0.0
+ponte nova,MG,39,1,0.07692307692307693,2.56
+pontes gestal,SP,1,0,0.0,0.0
+ponto do marambaia,MG,1,0,0.0,0.0
+ponto dos volantes,MG,2,0,0.0,0.0
+populina,SP,1,0,0.0,0.0
+porangaba,SP,2,0,0.0,0.0
+porciuncula,RJ,8,0,0.0,0.0
+porecatu,PR,9,0,0.0,0.0
+portao,RS,10,0,0.0,0.0
+porteirinha,MG,5,1,1.6,20.0
+portela,RJ,1,1,6.0,100.0
+porto alegre,RS,1341,158,1.174496644295302,11.78
+porto amazonas,PR,2,0,0.0,0.0
+porto feliz,SP,21,0,0.0,0.0
+porto ferreira,SP,26,3,0.19230769230769232,11.54
+porto firme,MG,2,0,0.0,0.0
+porto lucena,RS,1,0,0.0,0.0
+porto real,RJ,7,4,11.714285714285714,57.14
+porto rico,PR,1,0,0.0,0.0
+porto xavier,RS,5,0,0.0,0.0
+pote,MG,3,0,0.0,0.0
+potim,SP,2,0,0.0,0.0
+potirendaba,SP,8,0,0.0,0.0
+pouso alegre,MG,128,12,0.6328125,9.38
+pouso alto,MG,3,0,0.0,0.0
+pouso novo,RS,1,0,0.0,0.0
+pradopolis,SP,10,0,0.0,0.0
+prados,MG,3,0,0.0,0.0
+praia grande,SP,296,28,1.1993243243243243,9.46
+pranchita,PR,1,0,0.0,0.0
+prata,MG,10,0,0.0,0.0
+pratapolis,MG,1,0,0.0,0.0
+presidente alves,SP,2,0,0.0,0.0
+presidente bernardes,SP,5,0,0.0,0.0
+presidente epitacio,SP,23,1,0.13043478260869565,4.35
+presidente kubitschek,MG,2,0,0.0,0.0
+presidente lucena,RS,1,0,0.0,0.0
+presidente olegario,MG,6,0,0.0,0.0
+presidente prudente,SP,157,11,0.5159235668789809,7.01
+presidente venceslau,SP,22,4,1.0454545454545454,18.18
+primavera,SP,9,1,2.7777777777777777,11.11
+primeiro de maio,PR,7,0,0.0,0.0
+progresso,RS,1,0,0.0,0.0
+promissao,SP,31,2,0.8064516129032258,6.45
+protasio alves,RS,2,0,0.0,0.0
+prudente de morais,MG,2,0,0.0,0.0
+prudentopolis,PR,7,0,0.0,0.0
+pureza,RJ,1,0,0.0,0.0
+purilandia,RJ,1,0,0.0,0.0
+putinga,RS,2,0,0.0,0.0
+quadra,SP,2,0,0.0,0.0
+quarai,RS,4,0,0.0,0.0
+quata,SP,12,0,0.0,0.0
+quatigua,PR,5,0,0.0,0.0
+quatis,RJ,5,0,0.0,0.0
+quatituba,MG,1,0,0.0,0.0
+quatro barras,PR,18,1,0.1111111111111111,5.56
+quatro pontes,PR,1,0,0.0,0.0
+quedas do iguacu,PR,8,0,0.0,0.0
+queimados,RJ,53,2,0.49056603773584906,3.77
+queiroz,SP,1,0,0.0,0.0
+queixada,MG,1,1,4.0,100.0
+queluz,SP,2,0,0.0,0.0
+querencia do norte,PR,1,0,0.0,0.0
+quevedos,RS,2,0,0.0,0.0
+quinta do sol,PR,3,0,0.0,0.0
+quintana,SP,4,1,30.5,25.0
+quissama,RJ,11,0,0.0,0.0
+quitandinha,PR,2,0,0.0,0.0
+rafard,SP,5,1,0.0,20.0
+rainha do mar,RS,1,1,8.0,100.0
+rancharia,SP,21,2,0.8571428571428571,9.52
+rancho alegre,PR,1,0,0.0,0.0
+rancho alegre d'oeste,PR,1,0,0.0,0.0
+raposo,RJ,3,3,14.333333333333334,100.0
+raposos,MG,11,0,0.0,0.0
+raul soares,MG,12,1,2.75,8.33
+ravena,MG,1,0,0.0,0.0
+realeza,PR,6,0,0.0,0.0
+reboucas,PR,6,0,0.0,0.0
+rechan,SP,2,2,9.5,100.0
+recreio,MG,3,0,0.0,0.0
+redencao da serra,SP,1,0,0.0,0.0
+redentora,RS,3,0,0.0,0.0
+regente feijo,SP,10,0,0.0,0.0
+reginopolis,SP,3,0,0.0,0.0
+registro,SP,45,1,0.08888888888888889,2.22
+renascenca,PR,4,0,0.0,0.0
+resende,RJ,115,22,2.217391304347826,19.13
+resende costa,MG,3,1,0.6666666666666666,33.33
+reserva,PR,3,0,0.0,0.0
+reserva do iguacu,PR,1,0,0.0,0.0
+resplendor,MG,10,0,0.0,0.0
+ressaquinha,MG,1,0,0.0,0.0
+restinga seca,RS,3,0,0.0,0.0
+riachinho,MG,2,0,0.0,0.0
+riacho dos machados,MG,3,0,0.0,0.0
+ribeira,SP,3,0,0.0,0.0
+ribeirao bonito,SP,7,1,8.571428571428571,14.29
+ribeirao branco,SP,2,1,2.5,50.0
+ribeirao claro,PR,5,0,0.0,0.0
+ribeirao das neves,MG,98,5,0.2653061224489796,5.1
+ribeirao do pinhal,PR,5,0,0.0,0.0
+ribeirao do sul,SP,3,0,0.0,0.0
+ribeirao pires,SP,106,5,0.3867924528301887,4.72
+ribeirao preto,SP,499,19,0.23647294589178355,3.81
+ribeirao vermelho,MG,2,0,0.0,0.0
+ribeiro junqueira,MG,1,1,17.0,100.0
+rifaina,SP,2,0,0.0,0.0
+rincao,SP,1,0,0.0,0.0
+rinopolis,SP,2,0,0.0,0.0
+rio acima,MG,8,0,0.0,0.0
+rio azul,PR,5,1,0.0,20.0
+rio bonito,RJ,27,2,1.2222222222222223,7.41
+rio bonito do iguacu,PR,4,0,0.0,0.0
+rio branco do sul,PR,6,0,0.0,0.0
+rio casca,MG,5,0,0.0,0.0
+rio claro,RJ,3,1,3.0,33.33
+rio claro,SP,151,5,0.1390728476821192,3.31
+rio das flores,RJ,6,2,3.6666666666666665,33.33
+rio das ostras,RJ,130,27,4.107692307692307,20.77
+rio das pedras,SP,10,1,0.3,10.0
+rio de janeiro,RJ,6601,780,1.5282532949553098,11.82
+rio doce,MG,1,0,0.0,0.0
+rio dos indios,RS,1,0,0.0,0.0
+rio espera,MG,1,0,0.0,0.0
+rio grande,RS,121,15,1.1900826446280992,12.4
+rio grande da serra,SP,25,1,0.12,4.0
+rio manso,MG,5,0,0.0,0.0
+rio negro,PR,15,2,1.4,13.33
+rio novo,MG,4,0,0.0,0.0
+rio paranaiba,MG,9,0,0.0,0.0
+rio pardo,RS,5,0,0.0,0.0
+rio pardo de minas,MG,5,0,0.0,0.0
+rio piracicaba,MG,4,0,0.0,0.0
+rio pomba,MG,6,1,0.6666666666666666,16.67
+rio preto,MG,4,0,0.0,0.0
+rio verde,PR,1,0,0.0,0.0
+riolandia,SP,3,0,0.0,0.0
+ritapolis,MG,3,0,0.0,0.0
+riversul,SP,1,0,0.0,0.0
+roca sales,RS,2,0,0.0,0.0
+rodeio bonito,RS,2,0,0.0,0.0
+rodeiro,MG,3,0,0.0,0.0
+rolandia,PR,24,0,0.0,0.0
+rolante,RS,9,1,1.4444444444444444,11.11
+romaria,MG,2,0,0.0,0.0
+roncador,PR,2,0,0.0,0.0
+ronda alta,RS,6,1,1.8333333333333333,16.67
+rondon,PR,2,0,0.0,0.0
+roque gonzales,RS,5,0,0.0,0.0
+rosana,SP,4,0,0.0,0.0
+rosario do ivai,PR,1,0,0.0,0.0
+rosario do sul,RS,14,3,0.8571428571428571,21.43
+roseira,SP,5,0,0.0,0.0
+rubelita,MG,1,0,0.0,0.0
+rubiacea,SP,2,0,0.0,0.0
+rubim,MG,3,1,0.0,33.33
+rubineia,SP,1,1,42.0,100.0
+sabara,MG,42,1,0.14285714285714285,2.38
+sabaudia,PR,1,0,0.0,0.0
+sabino,SP,3,0,0.0,0.0
+sabinopolis,MG,5,0,0.0,0.0
+sacra familia do tingua,RJ,1,0,0.0,0.0
+sacramento,MG,13,0,0.0,0.0
+sales,SP,5,0,0.0,0.0
+sales oliveira,SP,6,0,0.0,0.0
+salesopolis,SP,10,1,0.5,10.0
+salgado filho,PR,3,1,0.3333333333333333,33.33
+salinas,MG,22,2,0.09090909090909091,9.09
+salmourao,SP,2,0,0.0,0.0
+saltinho,SP,5,0,0.0,0.0
+salto,SP,89,4,2.404494382022472,4.49
+salto da divisa,MG,2,0,0.0,0.0
+salto de pirapora,SP,12,2,0.16666666666666666,16.67
+salto do itarare,PR,1,0,0.0,0.0
+salto do jacui,RS,4,0,0.0,0.0
+salto do lontra,PR,4,1,1.5,25.0
+salto grande,SP,1,0,0.0,0.0
+salvador do sul,RS,1,0,0.0,0.0
+sananduva,RS,6,1,1.1666666666666667,16.67
+santa adelia,SP,15,1,0.26666666666666666,6.67
+santa albertina,SP,7,0,0.0,0.0
+santa amelia,PR,1,0,0.0,0.0
+santa barbara,MG,25,3,1.0,12.0
+santa barbara d oeste,SP,4,0,0.0,0.0
+santa barbara d'oeste,SP,118,5,0.3898305084745763,4.24
+santa barbara do sul,RS,2,1,5.5,50.0
+santa branca,SP,9,1,0.2222222222222222,11.11
+santa cecilia do pavao,PR,1,0,0.0,0.0
+santa clara d'oeste,SP,1,0,0.0,0.0
+santa clara do sul,RS,2,0,0.0,0.0
+santa cruz da conceicao,SP,4,1,1.5,25.0
+santa cruz das palmeiras,SP,9,0,0.0,0.0
+santa cruz de minas,MG,5,0,0.0,0.0
+santa cruz de monte castelo,PR,4,0,0.0,0.0
+santa cruz de salinas,MG,2,1,10.0,50.0
+santa cruz do prata,MG,2,1,0.5,50.0
+santa cruz do rio pardo,SP,34,1,0.08823529411764706,2.94
+santa cruz do sul,RS,62,4,0.4838709677419355,6.45
+santa ernestina,SP,2,0,0.0,0.0
+santa fe,PR,5,1,2.4,20.0
+santa fe de minas,MG,1,0,0.0,0.0
+santa fe do sul,SP,34,2,0.058823529411764705,5.88
+santa gertrudes,SP,11,1,1.2727272727272727,9.09
+santa helena,PR,9,1,0.7777777777777778,11.11
+santa helena de minas,MG,2,0,0.0,0.0
+santa isabel,SP,28,0,0.0,0.0
+santa isabel do ivai,PR,3,0,0.0,0.0
+santa isabel do rio preto,RJ,1,0,0.0,0.0
+santa izabel do oeste,PR,2,0,0.0,0.0
+santa juliana,MG,8,1,0.5,12.5
+santa lucia,PR,1,0,0.0,0.0
+santa lucia,SP,3,0,0.0,0.0
+santa luzia,MG,89,5,0.3146067415730337,5.62
+santa margarida,MG,2,0,0.0,0.0
+santa margarida,PR,1,0,0.0,0.0
+santa maria,RJ,1,1,56.0,100.0
+santa maria,RS,193,15,1.3626943005181347,7.77
+santa maria da serra,SP,2,0,0.0,0.0
+santa maria de itabira,MG,4,1,1.0,25.0
+santa maria do herval,RS,1,0,0.0,0.0
+santa maria do salto,MG,1,0,0.0,0.0
+santa maria do suacui,MG,2,0,0.0,0.0
+santa maria madalena,RJ,7,1,1.2857142857142858,14.29
+santa mariana,PR,4,0,0.0,0.0
+santa mercedes,SP,2,0,0.0,0.0
+santa monica,PR,2,0,0.0,0.0
+santa rita d'oeste,SP,3,0,0.0,0.0
+santa rita da floresta,RJ,1,0,0.0,0.0
+santa rita de caldas,MG,6,0,0.0,0.0
+santa rita de jacutinga,MG,1,0,0.0,0.0
+santa rita de minas,MG,3,0,0.0,0.0
+santa rita do ibitipoca,MG,2,0,0.0,0.0
+santa rita do itueto,MG,1,0,0.0,0.0
+santa rita do passa quatro,SP,18,0,0.0,0.0
+santa rita do sapucai,MG,35,7,1.8,20.0
+santa rosa,RS,32,1,0.1875,3.12
+santa rosa de viterbo,SP,13,0,0.0,0.0
+santa salete,SP,1,0,0.0,0.0
+santa tereza do oeste,PR,3,0,0.0,0.0
+santa terezinha de itaipu,PR,3,0,0.0,0.0
+santa vitoria,MG,17,1,0.29411764705882354,5.88
+santa vitoria do palmar,RS,12,0,0.0,0.0
+santana,PR,1,0,0.0,0.0
+santana da boa vista,RS,2,0,0.0,0.0
+santana da vargem,MG,4,1,0.75,25.0
+santana de parnaiba,SP,178,10,0.25842696629213485,5.62
+santana de pirapama,MG,1,0,0.0,0.0
+santana do capivari,MG,1,0,0.0,0.0
+santana do deserto,MG,1,0,0.0,0.0
+santana do itarare,PR,1,0,0.0,0.0
+santana do jacare,MG,4,1,4.0,25.0
+santana do livramento,RS,20,0,0.0,0.0
+santana do manhuacu,MG,3,0,0.0,0.0
+santana do paraiso,MG,16,1,0.125,6.25
+santana dos montes,MG,2,0,0.0,0.0
+santanesia,RJ,4,0,0.0,0.0
+santiago,RS,26,1,0.15384615384615385,3.85
+santo amaro de campos,RJ,6,1,1.1666666666666667,16.67
+santo anastacio,SP,17,0,0.0,0.0
+santo andre,SP,777,31,0.2947232947232947,3.99
+santo angelo,RS,45,0,0.0,0.0
+santo antonio da alegria,SP,3,0,0.0,0.0
+santo antonio da patrulha,RS,17,0,0.0,0.0
+santo antonio da platina,PR,12,0,0.0,0.0
+santo antonio das missoes,RS,4,0,0.0,0.0
+santo antonio de padua,RJ,30,4,1.9,13.33
+santo antonio de posse,SP,20,0,0.0,0.0
+santo antonio do amparo,MG,4,0,0.0,0.0
+santo antonio do aracangua,SP,1,0,0.0,0.0
+santo antonio do aventureiro,MG,1,0,0.0,0.0
+santo antonio do caiua,PR,1,0,0.0,0.0
+santo antonio do grama,MG,2,0,0.0,0.0
+santo antonio do itambe,MG,3,0,0.0,0.0
+santo antonio do jacinto,MG,7,1,0.5714285714285714,14.29
+santo antonio do jardim,SP,4,0,0.0,0.0
+santo antonio do monte,MG,14,0,0.0,0.0
+santo antonio do palma,RS,2,0,0.0,0.0
+santo antonio do pinhal,SP,2,0,0.0,0.0
+santo antonio do planalto,RS,1,0,0.0,0.0
+santo antonio do rio abaixo,MG,1,0,0.0,0.0
+santo antonio do sudoeste,PR,3,0,0.0,0.0
+santo antonio dos campos,MG,1,0,0.0,0.0
+santo augusto,RS,8,1,1.875,12.5
+santo cristo,RS,7,1,1.0,14.29
+santo eduardo,RJ,2,0,0.0,0.0
+santo expedito,SP,1,0,0.0,0.0
+santo expedito do sul,RS,1,0,0.0,0.0
+santo hipolito,MG,1,0,0.0,0.0
+santo inacio,PR,1,0,0.0,0.0
+santos,SP,700,65,0.5728571428571428,9.29
+santos dumont,MG,22,1,0.09090909090909091,4.55
+sao benedito,MG,1,0,0.0,0.0
+sao bento abade,MG,1,0,0.0,0.0
+sao bento do sapucai,SP,7,0,0.0,0.0
+sao bernardo do campo,SP,911,57,0.5762897914379802,6.26
+sao borja,RS,18,1,1.6111111111111112,5.56
+sao bras do suacui,MG,2,0,0.0,0.0
+sao caetano do sul,SP,272,13,0.4742647058823529,4.78
+sao carlos,SP,230,8,0.25217391304347825,3.48
+sao carlos do ivai,PR,1,0,0.0,0.0
+sao clemente,PR,1,1,0.0,100.0
+sao domingos,MG,1,0,0.0,0.0
+sao domingos das dores,MG,1,0,0.0,0.0
+sao domingos do prata,MG,4,0,0.0,0.0
+sao felix de minas,MG,1,0,0.0,0.0
+sao fidelis,RJ,23,0,0.0,0.0
+sao francisco,MG,12,2,0.6666666666666666,16.67
+sao francisco,SP,2,0,0.0,0.0
+sao francisco de assis,RS,2,1,12.0,50.0
+sao francisco de itabapoana,RJ,15,1,1.0666666666666667,6.67
+sao francisco de paula,MG,2,0,0.0,0.0
+sao francisco de paula,RS,5,0,0.0,0.0
+sao francisco do gloria,MG,1,0,0.0,0.0
+sao gabriel,RS,23,3,0.34782608695652173,13.04
+sao geraldo,MG,4,0,0.0,0.0
+sao geraldo da piedade,MG,1,0,0.0,0.0
+sao geraldo do baguari,MG,1,0,0.0,0.0
+sao goncalo,RJ,385,96,3.064935064935065,24.94
+sao goncalo do abaete,MG,2,0,0.0,0.0
+sao goncalo do para,MG,3,1,1.0,33.33
+sao goncalo do rio abaixo,MG,6,0,0.0,0.0
+sao goncalo do rio das pedras,MG,1,0,0.0,0.0
+sao goncalo do rio preto,MG,3,0,0.0,0.0
+sao goncalo do sapucai,MG,8,0,0.0,0.0
+sao gotardo,MG,20,2,0.85,10.0
+sao jeronimo,RS,7,0,0.0,0.0
+sao joao,PR,11,1,0.18181818181818182,9.09
+sao joao batista do gloria,MG,3,0,0.0,0.0
+sao joao da barra,RJ,15,1,1.0,6.67
+sao joao da boa vista,SP,80,2,0.1,2.5
+sao joao da mata,MG,2,1,0.0,50.0
+sao joao da ponte,MG,1,0,0.0,0.0
+sao joao da urtiga,RS,1,0,0.0,0.0
+sao joao das missoes,MG,2,0,0.0,0.0
+sao joao de iracema,SP,3,1,0.6666666666666666,33.33
+sao joao de meriti,RJ,124,27,3.556451612903226,21.77
+sao joao del rei,MG,66,6,0.8181818181818182,9.09
+sao joao do ivai,PR,2,0,0.0,0.0
+sao joao do manhuacu,MG,2,0,0.0,0.0
+sao joao do manteninha,MG,3,0,0.0,0.0
+sao joao do oriente,MG,2,0,0.0,0.0
+sao joao do paraiso,MG,4,0,0.0,0.0
+sao joao do paraiso,RJ,1,0,0.0,0.0
+sao joao do triunfo,PR,2,0,0.0,0.0
+sao joao evangelista,MG,6,2,3.0,33.33
+sao joao nepomuceno,MG,14,1,0.07142857142857142,7.14
+sao joaquim da barra,SP,34,6,2.6470588235294117,17.65
+sao joaquim de bicas,MG,8,1,0.375,12.5
+sao jorge,RS,1,0,0.0,0.0
+sao jorge d'oeste,PR,1,0,0.0,0.0
+sao jorge do ivai,PR,1,0,0.0,0.0
+sao jorge do oeste,PR,1,0,0.0,0.0
+sao jorge do patrocinio,PR,2,0,0.0,0.0
+sao jose da barra,MG,6,0,0.0,0.0
+sao jose da bela vista,SP,3,0,0.0,0.0
+sao jose da boa vista,PR,1,0,0.0,0.0
+sao jose da lapa,MG,8,0,0.0,0.0
+sao jose de uba,RJ,3,0,0.0,0.0
+sao jose do barreiro,SP,3,0,0.0,0.0
+sao jose do divino,MG,1,0,0.0,0.0
+sao jose do goiabal,MG,2,0,0.0,0.0
+sao jose do hortencio,RS,2,0,0.0,0.0
+sao jose do inhacora,RS,1,0,0.0,0.0
+sao jose do norte,RS,7,0,0.0,0.0
+sao jose do ouro,RS,5,1,2.0,20.0
+sao jose do ribeirao,RJ,1,0,0.0,0.0
+sao jose do rio pardo,SP,44,4,1.2954545454545454,9.09
+sao jose do rio preto,SP,329,13,0.3525835866261398,3.95
+sao jose do turvo,RJ,3,1,0.6666666666666666,33.33
+sao jose do vale do rio preto,RJ,12,1,1.3333333333333333,8.33
+sao jose dos campos,SP,667,40,0.30434782608695654,6.0
+sao jose dos pinhais,PR,130,5,0.24615384615384617,3.85
+sao leopoldo,RS,103,11,0.5436893203883495,10.68
+sao lourenco,MG,32,2,0.1875,6.25
+sao lourenco da serra,SP,12,0,0.0,0.0
+sao lourenco do sul,RS,14,0,0.0,0.0
+sao luis do paraitinga,SP,3,0,0.0,0.0
+sao luiz gonzaga,RS,15,0,0.0,0.0
+sao manuel,SP,20,0,0.0,0.0
+sao marcos,RS,9,0,0.0,0.0
+sao martinho,RS,1,0,0.0,0.0
+sao mateus de minas,MG,1,1,2.0,100.0
+sao mateus do sul,PR,15,2,0.06666666666666667,13.33
+sao miguel arcanjo,SP,13,0,0.0,0.0
+sao miguel do anta,MG,1,0,0.0,0.0
+sao miguel do cambui,PR,1,0,0.0,0.0
+sao miguel do iguacu,PR,9,1,0.2222222222222222,11.11
+sao nicolau,RS,1,0,0.0,0.0
+sao paulo,SP,15045,942,0.41070122964440015,6.26
+sao paulo das missoes,RS,2,0,0.0,0.0
+sao pedro,SP,12,2,0.9166666666666666,16.67
+sao pedro da aldeia,RJ,46,7,2.4782608695652173,15.22
+sao pedro da uniao,MG,3,0,0.0,0.0
+sao pedro do butia,RS,1,0,0.0,0.0
+sao pedro do iguacu,PR,1,1,11.0,100.0
+sao pedro do ivai,PR,3,0,0.0,0.0
+sao pedro do sul,RS,1,0,0.0,0.0
+sao pedro do turvo,SP,2,0,0.0,0.0
+sao pedro dos ferros,MG,4,0,0.0,0.0
+sao romao,MG,5,0,0.0,0.0
+sao roque,SP,75,3,0.29333333333333333,4.0
+sao roque de minas,MG,2,0,0.0,0.0
+sao sebastiao,SP,56,3,0.6428571428571429,5.36
+sao sebastiao da amoreira,PR,1,0,0.0,0.0
+sao sebastiao da grama,SP,4,1,1.75,25.0
+sao sebastiao da serra,SP,1,0,0.0,0.0
+sao sebastiao de campos,RJ,1,1,7.0,100.0
+sao sebastiao do alto,RJ,4,0,0.0,0.0
+sao sebastiao do cai,RS,12,1,0.6666666666666666,8.33
+sao sebastiao do maranhao,MG,3,0,0.0,0.0
+sao sebastiao do paraiba,RJ,1,0,0.0,0.0
+sao sebastiao do paraiso,MG,35,2,0.8,5.71
+sao sebastiao do rio verde,MG,1,0,0.0,0.0
+sao sepe,RS,6,0,0.0,0.0
+sao simao,SP,10,0,0.0,0.0
+sao thome das letras,MG,2,0,0.0,0.0
+sao tiago,MG,5,1,0.8,20.0
+sao tomas de aquino,MG,3,0,0.0,0.0
+sao tome,PR,2,0,0.0,0.0
+sao valentim,RS,3,0,0.0,0.0
+sao vendelino,RS,2,0,0.0,0.0
+sao vicente,SP,157,19,1.1719745222929936,12.1
+sao vitor,MG,1,0,0.0,0.0
+sapiranga,RS,23,2,0.043478260869565216,8.7
+sapopema,PR,2,0,0.0,0.0
+sapucai-mirim,MG,4,0,0.0,0.0
+sapucaia,MG,1,0,0.0,0.0
+sapucaia,RJ,4,0,0.0,0.0
+sapucaia do sul,RS,39,5,1.8205128205128205,12.82
+saquarema,RJ,45,7,2.311111111111111,15.56
+sarandi,PR,17,0,0.0,0.0
+sarandi,RS,5,0,0.0,0.0
+sarapui,SP,2,1,14.5,50.0
+sardoa,MG,1,0,0.0,0.0
+sarutaia,SP,1,0,0.0,0.0
+sarzedo,MG,18,1,0.2777777777777778,5.56
+saudade do iguacu,PR,4,0,0.0,0.0
+seberi,RS,2,0,0.0,0.0
+sede alvorada,PR,1,1,8.0,100.0
+segredo,RS,1,0,0.0,0.0
+selbach,RS,1,0,0.0,0.0
+senador amaral,MG,2,0,0.0,0.0
+senador cortes,MG,1,0,0.0,0.0
+senador firmino,MG,2,0,0.0,0.0
+senador modestino goncalves,MG,2,0,0.0,0.0
+senador salgado filho,RS,1,0,0.0,0.0
+senges,PR,5,3,4.4,60.0
+senhora de oliveira,MG,2,1,3.5,50.0
+senhora dos remedios,MG,1,0,0.0,0.0
+serafina correa,RS,9,2,0.3333333333333333,22.22
+sericita,MG,2,0,0.0,0.0
+serio,RS,1,0,0.0,0.0
+seropedica,RJ,33,2,0.3939393939393939,6.06
+serra azul,SP,1,1,5.0,100.0
+serra azul de minas,MG,2,0,0.0,0.0
+serra bonita,MG,1,0,0.0,0.0
+serra do salitre,MG,1,0,0.0,0.0
+serra dos aimores,MG,5,0,0.0,0.0
+serra dos dourados,PR,1,1,53.0,100.0
+serra negra,SP,13,0,0.0,0.0
+serrana,SP,13,1,0.38461538461538464,7.69
+serrania,MG,2,1,2.0,50.0
+serranopolis de minas,MG,1,0,0.0,0.0
+serranopolis do iguacu,PR,2,0,0.0,0.0
+serro,MG,2,0,0.0,0.0
+sertanopolis,PR,4,0,0.0,0.0
+sertao,RS,3,0,0.0,0.0
+sertao santana,RS,1,0,0.0,0.0
+sertaozinho,SP,61,1,0.08196721311475409,1.64
+sete barras,SP,4,0,0.0,0.0
+sete de setembro,RS,1,0,0.0,0.0
+sete lagoas,MG,126,5,0.49206349206349204,3.97
+setubinha,MG,3,0,0.0,0.0
+severinia,SP,5,1,0.8,20.0
+silva jardim,RJ,4,0,0.0,0.0
+silvano,MG,1,0,0.0,0.0
+silveira carvalho,MG,1,0,0.0,0.0
+silveira martins,RS,1,0,0.0,0.0
+silveiras,SP,3,0,0.0,0.0
+silvianopolis,MG,3,0,0.0,0.0
+simao pereira,MG,1,0,0.0,0.0
+simonesia,MG,8,0,0.0,0.0
+sinimbu,RS,2,0,0.0,0.0
+siqueira campos,PR,9,0,0.0,0.0
+sobradinho,RS,3,0,0.0,0.0
+sobralia,MG,1,0,0.0,0.0
+socorro,SP,19,0,0.0,0.0
+soledade,RS,5,0,0.0,0.0
+soledade de minas,MG,5,0,0.0,0.0
+sorocaba,SP,609,25,0.13628899835796388,4.11
+sud mennucci,SP,5,0,0.0,0.0
+sulina,PR,1,0,0.0,0.0
+sumare,SP,177,22,0.903954802259887,12.43
+sumidouro,RJ,10,4,3.9,40.0
+suzanapolis,SP,1,0,0.0,0.0
+suzano,SP,230,12,0.3652173913043478,5.22
+tabapua,SP,12,0,0.0,0.0
+tabatinga,SP,5,1,0.2,20.0
+taboao da serra,SP,284,13,0.18661971830985916,4.58
+tabuleiro,MG,2,0,0.0,0.0
+taciba,SP,2,0,0.0,0.0
+taguai,SP,10,0,0.0,0.0
+taiacu,SP,1,0,0.0,0.0
+taiobeiras,MG,13,0,0.0,0.0
+taiuva,SP,5,0,0.0,0.0
+tamarana,PR,2,0,0.0,0.0
+tambau,SP,19,1,0.7368421052631579,5.26
+tamboara,PR,1,0,0.0,0.0
+tanabi,SP,11,0,0.0,0.0
+tangua,RJ,6,0,0.0,0.0
+taparuba,MG,1,0,0.0,0.0
+tapejara,PR,2,0,0.0,0.0
+tapejara,RS,9,0,0.0,0.0
+tapera,RS,1,0,0.0,0.0
+tapes,RS,6,0,0.0,0.0
+tapinas,SP,1,0,0.0,0.0
+tapirai,SP,2,1,5.0,50.0
+tapiratiba,SP,12,1,0.5,8.33
+taquara,RS,21,0,0.0,0.0
+taquaracu de minas,MG,2,1,2.0,50.0
+taquari,RS,11,0,0.0,0.0
+taquaritinga,SP,33,2,0.15151515151515152,6.06
+taquarituba,SP,15,0,0.0,0.0
+taquarivai,SP,3,0,0.0,0.0
+taquarucu do sul,RS,1,0,0.0,0.0
+tarabai,SP,5,0,0.0,0.0
+taruma,SP,9,0,0.0,0.0
+tarumirim,MG,4,0,0.0,0.0
+tatui,SP,72,1,0.05555555555555555,1.39
+taubate,SP,260,8,0.36538461538461536,3.08
+tavares,RS,1,0,0.0,0.0
+tecainda,SP,1,0,0.0,0.0
+teixeira soares,PR,1,0,0.0,0.0
+teixeiras,MG,6,1,2.6666666666666665,16.67
+tejupa,SP,3,0,0.0,0.0
+telemaco borba,PR,34,0,0.0,0.0
+tenente portela,RS,3,0,0.0,0.0
+teodoro sampaio,SP,12,0,0.0,0.0
+teofilo otoni,MG,75,4,0.22666666666666666,5.33
+teresopolis,RJ,119,17,2.0,14.29
+termas de ibira,SP,1,0,0.0,0.0
+terra boa,PR,4,0,0.0,0.0
+terra de areia,RS,5,0,0.0,0.0
+terra rica,PR,7,0,0.0,0.0
+terra roxa,PR,3,0,0.0,0.0
+terra roxa,SP,2,0,0.0,0.0
+teutonia,RS,14,2,11.071428571428571,14.29
+tibagi,PR,4,0,0.0,0.0
+tiete,SP,35,5,0.8285714285714286,14.29
+timburi,SP,3,0,0.0,0.0
+timoteo,MG,52,1,0.36538461538461536,1.92
+tiradentes,MG,4,0,0.0,0.0
+tiradentes do sul,RS,1,0,0.0,0.0
+tiros,MG,3,0,0.0,0.0
+tocantins,MG,6,0,0.0,0.0
+tocos,RJ,2,0,0.0,0.0
+tocos do moji,MG,1,0,0.0,0.0
+toledo,PR,70,7,0.42857142857142855,10.0
+tomazina,PR,3,0,0.0,0.0
+tombos,MG,4,0,0.0,0.0
+toropi,RS,3,0,0.0,0.0
+torres,RS,17,1,0.35294117647058826,5.88
+torrinha,SP,6,1,1.5,16.67
+trabiju,SP,1,0,0.0,0.0
+trajano de moraes,RJ,8,3,7.25,37.5
+tramandai,RS,25,1,0.56,4.0
+travessao,RJ,4,0,0.0,0.0
+travesseiro,RS,1,0,0.0,0.0
+tremembe,SP,38,4,0.6578947368421053,10.53
+tres arroios,RS,3,0,0.0,0.0
+tres cachoeiras,RS,7,0,0.0,0.0
+tres coracoes,MG,41,5,0.7317073170731707,12.2
+tres coroas,RS,6,0,0.0,0.0
+tres de maio,RS,12,0,0.0,0.0
+tres forquilhas,RS,1,0,0.0,0.0
+tres fronteiras,SP,5,0,0.0,0.0
+tres irmaos,RJ,1,0,0.0,0.0
+tres marias,MG,13,2,4.3076923076923075,15.38
+tres passos,RS,11,1,0.7272727272727273,9.09
+tres pontas,MG,19,1,0.05263157894736842,5.26
+tres rios,RJ,38,3,0.7105263157894737,7.89
+trindade do sul,RS,4,0,0.0,0.0
+triunfo,RS,11,0,0.0,0.0
+tucunduva,RS,3,0,0.0,0.0
+tuiuti,SP,1,0,0.0,0.0
+tumiritinga,MG,1,0,0.0,0.0
+tunas do parana,PR,2,0,0.0,0.0
+tupa,SP,52,3,0.3269230769230769,5.77
+tupaciguara,MG,13,0,0.0,0.0
+tupancireta,RS,4,1,2.25,25.0
+tupandi,RS,3,0,0.0,0.0
+tuparece,MG,1,0,0.0,0.0
+tuparendi,RS,2,0,0.0,0.0
+tupassi,PR,1,0,0.0,0.0
+tupi paulista,SP,6,0,0.0,0.0
+turmalina,MG,8,0,0.0,0.0
+turmalina,SP,1,0,0.0,0.0
+turvo,PR,2,0,0.0,0.0
+turvolandia,MG,2,0,0.0,0.0
+uba,MG,53,9,1.2264150943396226,16.98
+ubai,MG,1,0,0.0,0.0
+ubaporanga,MG,3,0,0.0,0.0
+ubatuba,SP,72,6,0.9444444444444444,8.33
+uberaba,MG,186,9,0.0913978494623656,4.84
+uberlandia,MG,367,15,0.3133514986376022,4.09
+ubirajara,SP,1,0,0.0,0.0
+ubirata,PR,7,0,0.0,0.0
+uchoa,SP,3,0,0.0,0.0
+umburatiba,MG,1,0,0.0,0.0
+umuarama,PR,40,3,0.35,7.5
+unai,MG,54,5,0.7222222222222222,9.26
+uniao da serra,RS,1,0,0.0,0.0
+uniao da vitoria,PR,29,2,0.6551724137931034,6.9
+uniao de minas,MG,3,0,0.0,0.0
+unistalda,RS,1,0,0.0,0.0
+urai,PR,3,0,0.0,0.0
+urania,SP,4,0,0.0,0.0
+uruana de minas,MG,1,0,0.0,0.0
+urucania,MG,1,0,0.0,0.0
+urucuia,MG,1,0,0.0,0.0
+uruguaiana,RS,47,0,0.0,0.0
+urupes,SP,10,0,0.0,0.0
+vacaria,RS,21,0,0.0,0.0
+valao do barro,RJ,1,1,12.0,100.0
+vale do sol,RS,1,0,0.0,0.0
+vale real,RS,3,0,0.0,0.0
+valenca,RJ,27,4,0.9629629629629629,14.81
+valentim gentil,SP,3,0,0.0,0.0
+valinhos,SP,181,10,0.18232044198895028,5.52
+valparaiso,SP,8,0,0.0,0.0
+vanini,RS,1,0,0.0,0.0
+vargem,SP,2,0,0.0,0.0
+vargem alegre,MG,1,0,0.0,0.0
+vargem grande do rio pardo,MG,1,1,5.0,100.0
+vargem grande do sul,SP,12,0,0.0,0.0
+vargem grande paulista,SP,43,2,0.23255813953488372,4.65
+varginha,MG,88,3,0.38636363636363635,3.41
+varjao de minas,MG,2,0,0.0,0.0
+varre-sai,RJ,4,1,7.5,25.0
+varzea da palma,MG,11,0,0.0,0.0
+varzea paulista,SP,75,3,0.6266666666666667,4.0
+varzelandia,MG,2,0,0.0,0.0
+vassouras,RJ,36,4,1.5555555555555556,11.11
+vazante,MG,6,0,0.0,0.0
+venancio aires,RS,26,1,0.3076923076923077,3.85
+venda branca,SP,1,0,0.0,0.0
+ventania,PR,3,0,0.0,0.0
+vera cruz,RS,4,0,0.0,0.0
+vera cruz,SP,9,1,1.1111111111111112,11.11
+vera cruz do oeste,PR,3,0,0.0,0.0
+veranopolis,RS,18,0,0.0,0.0
+vere,PR,3,1,5.333333333333333,33.33
+verissimo,MG,3,0,0.0,0.0
+vermelho,MG,1,0,0.0,0.0
+vermelho novo,MG,1,1,6.0,100.0
+vespasiano,MG,41,3,0.34146341463414637,7.32
+vespasiano correa,RS,1,0,0.0,0.0
+viamao,RS,70,8,1.1857142857142857,11.43
+vicente dutra,RS,1,0,0.0,0.0
+vicosa,MG,87,2,0.3793103448275862,2.3
+victor graeff,RS,2,0,0.0,0.0
+vieiras,MG,1,0,0.0,0.0
+vila flores,RS,3,0,0.0,0.0
+vila langaro,RS,3,0,0.0,0.0
+vila muriqui,RJ,7,0,0.0,0.0
+vila nova,PR,2,1,2.0,50.0
+vila nova do sul,RS,1,1,0.0,100.0
+vila pereira,MG,1,1,2.0,100.0
+vila reis,PR,1,0,0.0,0.0
+vinhedo,SP,90,1,0.044444444444444446,1.11
+viradouro,SP,18,1,0.05555555555555555,5.56
+virgem da lapa,MG,3,1,0.3333333333333333,33.33
+virginia,MG,1,0,0.0,0.0
+virginopolis,MG,7,0,0.0,0.0
+virgolandia,MG,2,0,0.0,0.0
+visconde de maua,RJ,3,2,2.0,66.67
+visconde do rio branco,MG,18,0,0.0,0.0
+vista alegre,RS,1,0,0.0,0.0
+vista alegre do alto,SP,3,1,3.6666666666666665,33.33
+vitoria,PR,1,0,0.0,0.0
+vitoria das missoes,RS,1,0,0.0,0.0
+vitorino,PR,1,0,0.0,0.0
+vitorinos,MG,1,0,0.0,0.0
+volta grande,MG,4,1,1.25,25.0
+volta redonda,RJ,227,41,1.9251101321585904,18.06
+votorantim,SP,84,5,0.14285714285714285,5.95
+votuporanga,SP,63,1,0.031746031746031744,1.59
+wenceslau braz,PR,2,0,0.0,0.0
+werneck,RJ,2,1,9.5,50.0
+xambre,PR,2,0,0.0,0.0
+xangri-la,RS,8,1,3.125,12.5
+zacarias,SP,2,1,0.5,50.0
