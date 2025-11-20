@@ -5,17 +5,17 @@ pages = {
         st.Page("main.py", title="Home", icon="🏠")
     ],
     "Conoce los datos": [
-        st.Page("./pages/data.py", title="Datos de las tablas", icon="📊")
+        st.Page("pages/data.py", title="Datos de las tablas", icon="📊")
     ], 
     "Análisis de datos por estado": [
-        st.Page("./estado/clientesEstado.py", title="Clientes por estado", icon="👥"),
-        st.Page("./estado/graficoMedidasEstado.py", title="Gráfico por estado", icon="📈"),
-        st.Page("./estado/resenas.py", title="Análisis de reseñas", icon="⭐"),
-        st.Page("./estado/mapa.py", title="Mapa", icon="🌎")
+        st.Page("pages/clientesEstado.py", title="Clientes por estado", icon="👥"),
+        st.Page("pages/graficoMedidasEstado.py", title="Gráfico por estado", icon="📈"),
+        st.Page("pages/resenas.py", title="Análisis de reseñas", icon="⭐"),
+        st.Page("pages/mapa.py", title="Mapa", icon="🌎")
     ],
     "Análisis de datos por ciudad": [
-        st.Page("./ciudad/clienteCiudad.py", title="Clientes por ciudad",  icon="👥"),
-        st.Page("./ciudad/graficoCiudad.py", title="Gráficos por ciudad", icon="📉")
+        st.Page("pages/clienteCiudad.py", title="Clientes por ciudad",  icon="👥"),
+        st.Page("pages/graficoCiudad.py", title="Gráficos por ciudad", icon="📉")
     ]
 }
 
