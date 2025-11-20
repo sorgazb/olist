@@ -5,7 +5,7 @@ pages = {
         st.Page("main.py", title="Home", icon="🏠")
     ],
     "Conoce los datos": [
-        st.Page("data.py", title="Datos de las tablas", icon="📊")
+        st.Page("./pages/data.py", title="Datos de las tablas", icon="📊")
     ], 
     "Análisis de datos por estado": [
         st.Page("./estado/clientesEstado.py", title="Clientes por estado", icon="👥"),
