@@ -72,4 +72,4 @@ col, colm = st.columns(2, vertical_alignment="center")
 with col:
     st.write("")
 with colm:
-    st.page_link("./data.py", label="Datos de las tablas", icon="➡️")
+    st.page_link("./pages/data.py", label="Datos de las tablas", icon="➡️")
