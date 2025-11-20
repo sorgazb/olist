@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-st.write("Versión de Streamlit:", st.__version__)
 
 col1,col2 = st.columns([0.5,2])
 with col1:
