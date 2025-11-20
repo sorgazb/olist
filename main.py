@@ -57,7 +57,7 @@ states_reviews = pd.read_csv("states_reviews.csv")
 
 col1, col2, col3 = st.columns(3)
 
-p = df1['order_id']. nunique()
+p = df1['order_id'].nunique()
 c = df['customer_unique_id'].nunique()
 r = states_reviews['mean_reviews'].mean()
 
