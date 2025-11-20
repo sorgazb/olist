@@ -71,5 +71,27 @@ st.write("")
 col, colm = st.columns(2, vertical_alignment="center")
 with col:
     st.write("")
-# with colm:
-    # st.page_link("./pages/data.py", label="Datos de las tablas", icon="➡️")
+with colm:
+    st.page_link("https://grupo3stemdoolist.streamlit.app/pages/data.py", label="Datos de las tablas", icon="➡️")
+
+pages = {
+    "Home": [
+        st.Page("main.py", title="Home", icon="🏠")
+    ],
+    "Conoce los datos": [
+        st.Page("data.py", title="Datos de las tablas", icon="📊")
+    ], 
+    "Análisis de datos por estado": [
+        st.Page("./estado/clientesEstado.py", title="Clientes por estado", icon="👥"),
+        st.Page("./estado/graficoMedidasEstado.py", title="Gráfico por estado", icon="📈"),
+        st.Page("./estado/resenas.py", title="Análisis de reseñas", icon="⭐"),
+        st.Page("./estado/mapa.py", title="Mapa", icon="🌎")
+    ],
+    "Análisis de datos por ciudad": [
+        st.Page("./ciudad/clienteCiudad.py", title="Clientes por ciudad",  icon="👥"),
+        st.Page("./ciudad/graficoCiudad.py", title="Gráficos por ciudad", icon="📉")
+    ]
+}
+
+pg = st.navigation(pages)
+pg.run()
